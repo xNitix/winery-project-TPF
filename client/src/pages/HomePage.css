@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;700&display=swap");
+
+h1 {
+  font-family: "Roboto", sans-serif;
+  color: var(--dark-brown);
+}
+
+.app-layout {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+
+.about-us p {
+  font-family: "Roboto", sans-serif;
+  color: #333;
+}
