@@ -1,0 +1,40 @@
+.quantity-selector {
+  display: inline-flex;
+  align-items: center;
+  justify-content: space-between;
+  text-align: center;
+  background-color: #f0ebe5;
+  border-radius: 7px;
+  padding: 5px;
+  border: 1px solid #d3c1ac;
+  max-width: 120px;
+}
+
+.quantity-selector button {
+  background: none;
+  border: none;
+  font-weight: bold;
+  font-size: 18px;
+  color: #333;
+  cursor: pointer;
+  padding: 5px 10px;
+  user-select: none;
+  transition: transform 0.1s;
+}
+
+.quantity-selector button:active {
+  transform: scale(1.5);
+}
+
+.quantity-selector input {
+  width: 30px;
+  border: none;
+  text-align: center;
+  background-color: transparent;
+  color: #333;
+  font-size: 16px;
+}
+
+.quantity-selector input:focus {
+  outline: none;
+}

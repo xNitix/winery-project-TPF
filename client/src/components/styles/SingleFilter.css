@@ -1,0 +1,49 @@
+.single-filter {
+  margin-bottom: 50px;
+  width: 100%;
+}
+
+.filter-header {
+  display: flex;
+  align-items: center;
+}
+
+.single-filter label h2 {
+  font-size: 22px;
+  line-height: normal;
+  font-weight: 600;
+  text-align: left;
+}
+
+.options {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.option {
+  border: 1px solid var(--cool-red);
+  border-radius: 100px;
+  padding: 10px;
+  margin: 4px;
+  cursor: pointer;
+  font-size: 0.8em;
+  color: var(--cool-red);
+  user-select: none;
+  transition: 0.3s;
+}
+
+.option.selected {
+  background-color: var(--cool-red);
+  color: white;
+}
+
+.rating-label {
+  display: flex;
+}
+
+.optionalValueText {
+  margin-left: 10px;
+  font-style: italic;
+  color: gray;
+  font-size: 1.2em;
+}

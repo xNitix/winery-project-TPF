@@ -1,0 +1,7 @@
+.blog-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap; /* Wrap to next line on small screens */
+  gap: 20px; /* Space between cards */
+  padding: 20px;
+}
