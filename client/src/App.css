@@ -1,0 +1,45 @@
+:root {
+  --dark-red: rgb(67, 6, 7);
+  --light-red: rgb(153, 39, 39);
+  --cool-red: #ba1628;
+  --cream-color: rgb(245, 213, 200);
+  --dark-brown: rgb(65, 36, 59);
+  --rose-color: rgb(249, 229, 230);
+}
+
+body {
+  margin: 0;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.content-wrap {
+  flex: 1;
+}
+
+.admin-button {
+  background-color: var(--cool-red);
+  color: white;
+  border: none;
+  padding: 12px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 7px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: background-color 0.3s, box-shadow 0.3s, transform 0.3s;
+  margin-top: 10px;
+}
+
+.admin-button:hover {
+  background-color: var(--light-red);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+  transform: scale(1.03);
+}
+
+.admin-button:active {
+  transform: scale(0.9);
+}
