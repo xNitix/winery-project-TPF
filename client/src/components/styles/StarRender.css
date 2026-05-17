@@ -1,0 +1,34 @@
+.rating {
+  margin: 10px 0;
+  font-size: 20px;
+  line-height: 1;
+}
+
+.rating span {
+  position: relative;
+}
+
+.star {
+  display: inline-block;
+}
+
+.rating .full {
+  color: #ffd700;
+}
+
+.rating .half,
+.rating .empty {
+  color: #ccc;
+}
+
+.rating .half::after {
+  color: #ffd700;
+}
+
+.rating .half::after {
+  content: "★";
+  position: absolute;
+  left: 0;
+  width: 50%;
+  overflow: hidden;
+}
