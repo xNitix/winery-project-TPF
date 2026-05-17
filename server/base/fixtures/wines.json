@@ -1,0 +1,2552 @@
+[
+  {
+    "model": "base.wine",
+    "pk": 0,
+    "fields": {
+      "name": "Joven",
+      "description": "A little Viura (10 per cent) is added to the Tempranillo to enhance the bouquet, making this a lovely fresh and fruity wine for everyday drinking. Refreshing, full of red fruit and with a good acidity. Joven 2016 is an uncomplicated wine that pairs well with BBQs and cheese platters. Very soft in the mouth, be sure to enjoy it slightly cool.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Hiszpania/Luis%20Canas/joven-red-2016-rioja-luis-canas-hiszpania-96-767x1100.jpg",
+      "price": 44.0,
+      "units_in_stock": 71,
+      "color": 1,
+      "country": "ES",
+      "year": 2022,
+      "taste": 1,
+      "volume": 750,
+      "alcohol": 13.0
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 1,
+    "fields": {
+      "name": "Joven",
+      "description": "Made from Viura, the aromatic white grape used in white Riojas, this is fruity and easy drinking, a great outdoor summer sipper and everyday drinking wine.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Hiszpania/Luis%20Canas/joven-white-2016-rioja-luis-canas-hiszpania-98-767x1100.jpg",
+      "price": 44.0,
+      "units_in_stock": 123,
+      "color": 2,
+      "country": "ES",
+      "year": 2022,
+      "taste": 1,
+      "volume": 750,
+      "alcohol": 13.0
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 2,
+    "fields": {
+      "name": "Milleponche",
+      "description": "The grapes come from vineyards which do not belong to the company, and which are located in the Collio and the Brda (the part of the Collio situated in Slovenia).The numerous small batches from various plots, after being fermented separately in barrique, are left there to refine for a number of months. At the end of the refinement period, Milleponche is blended into a single batch.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Wlochy/Borgo%20del%20Tiglio/Milleponche-767x1100.jpg",
+      "price": 99.0,
+      "units_in_stock": 101,
+      "color": 2,
+      "year": 2020,
+      "taste": 1,
+      "alcohol": 14.0,
+      "volume": 750,
+      "country": "PL"
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 3,
+    "fields": {
+      "name": "Luccio",
+      "description": "A touch of blackcurrant followed by typical dark cherry, and a hint of clove. Medium bodied wine, with a soft and subtle middle palate. Dark cherry continues through from the aroma. This wine is finished with dusty tannins, and a nice pop of acid. A fabulous food wine. Can pair with many dishes, however great with salami wood fired pizza or Penne Amatriciana. It will age well in the medium term, 3-5 years.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Australia/Pikes/zestaw-mieszany-6-butelek-czerwone-wina-na-lato-darmowa-dostawa-zestawy-a4439-767x1100.jpg",
+      "price": 65.0,
+      "units_in_stock": 8,
+      "color": 1,
+      "country": "AU",
+      "year": 2021,
+      "taste": 1,
+      "alcohol": 13.5,
+      "volume": 750
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 4,
+    "fields": {
+      "name": "Nicola Fabiano Valpolicella Classico Superiore",
+      "description": "Another of Italy’s classic reds made from several old Italian grape varieties, this is a good choice with red meats and dishes with creamy sauces.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Wlochy/Fabiano/nicola-fabiano-valpolicella-classico-superiore-d-o-c-2013-2014-fabiano-wlochy-328-767x1100.jpg",
+      "price": 69.0,
+      "units_in_stock": 103,
+      "color": 1,
+      "country": "IT",
+      "year": 2020,
+      "taste": 1,
+      "alcohol": 13.5,
+      "volume": 750
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 5,
+    "fields": {
+      "name": "The E.W.P. Reserve Shiraz",
+      "description": "Named after the patriarch of the Pikes family, Edgar Walter Pike. Quite perfumed, with aromas of ripe dark berries and black cherry with hints of spice, charry French oak and graphite. Also some attractive/complex grilled meat notes. The palate is medium bodied and has soft, silky tannins that provide structure for the rich yet not overpowering ripe dark fruits and chocolate. Balanced acidity sees the wine finish long and clean. Really is quite elegant. Great match with a ripe, soft cheese. Bottled only in years when a parcel of wine is considered worthy of a separate bottling. Under screwcap this wine will still be drinking nicely in 10-15 years time – perhaps even longer.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Australia/Pikes/Pikes%20Shiraz%20EWP-767x1100.jpg",
+      "price": 185.0,
+      "units_in_stock": 28,
+      "color": 1,
+      "country": "AU",
+      "year": 2018,
+      "taste": 1,
+      "alcohol": 13.5,
+      "volume": 750
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 6,
+    "fields": {
+      "name": "'The Better Half'",
+      "description": "This fruit-driven Pinot Noir is generous on the nose showing dark cherry, black doris plum, and vibrant red raspberry and cranberry aromas which gradually open to reveal subtle dried thyme notes and hints of cocoa. With a palate full of vibrant bright fruit, this wine exhibits plum, cherry and cranberry flavours, well balanced with earthy, savoury undertones with a delightful layer of chocolate.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Nowa-Zelandia/Jules%20Taylor/Better%20Half%20Pinot%20Noir-767x1100.jpg",
+      "price": 85.0,
+      "units_in_stock": 90,
+      "color": 1,
+      "country": "NZ",
+      "year": 2021,
+      "taste": 1,
+      "volume": 750,
+      "alcohol": 10.0
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 7,
+    "fields": {
+      "name": "'The Better Half'",
+      "description": "This quintessentially vibrant Marlborough Sauvignon Blanc is incredibly lively on the palate and also generously layered with mouth-watering tropical fruit flavours and a lip-smacking finish.\nIt’s perfect with fresh mussels sautéed in white wine (you know which one to choose!) and garlic topped with a sprinkle of parsley. Or enjoy Kiwi style with freshly caught fish and homemade chunky chips with flaky sea salt and a squeeze of lemon.\n“Classically expressed and instantly appealing, the wine shows passionfruit, green rockmelon, jasmine and lime zest characters on the nose. It’s equally satisfying on the palate, delivering terrific fruit purity combined with fine texture and vibrant mouthfeel, finishing long and delicious.”    Sam Kim, Wine Orbit",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Nowa-Zelandia/Jules%20Taylor/The%20Better%20Half%20Sauvignon%20Blanc%202022-767x1100.png",
+      "price": 65.0,
+      "units_in_stock": 121,
+      "color": 2,
+      "country": "NZ",
+      "year": 2023,
+      "taste": 1,
+      "alcohol": 13.5,
+      "volume": 750
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 8,
+    "fields": {
+      "name": "1831 Cabernet Sauvignon",
+      "description": "Bright ruby red color. Elegant and fresh, with red fruits, spices and herbaceous notes. Complemented by integrated notes from its oak aging. A very fruity and fresh wine, with good volume and elegant tannins. Aged in both new and used French oak barrels for 18 months.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Argentyna/Colome%201831%20Cabernet%20Sauvignon-767x1100.png",
+      "price": 244.0,
+      "units_in_stock": 54,
+      "color": 1,
+      "year": 2020,
+      "taste": 1,
+      "alcohol": 14.5,
+      "volume": 750,
+      "country": "IT"
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 9,
+    "fields": {
+      "name": "Al-Ria",
+      "description": "Al-Ria is a wine with a deep colour, with violet shades and good concentration in the nose. Rich in aroma, with notes of ripe black fruits, jam and floral. In the palate it presents smooth and velvety notes of ripe fruit, chocolate and vanilla. Long and balanced aftertaste, with tannins that demonstrate good ageing potential.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Portugalia/Casa%20Santos%20Lima/Al-Ria-767x1100.jpg",
+      "price": 47.0,
+      "units_in_stock": 30,
+      "color": 1,
+      "year": 2021,
+      "taste": 1,
+      "volume": 750,
+      "country": "AR",
+      "alcohol": 13.0
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 10,
+    "fields": {
+      "name": "Albariño",
+      "description": "Fresh, fruity and lively.\nColour : Lemon yellow with greenish highlights.\nAromas : Citrus with notes of stone fruits.\nPalate : Fresh, juicy, fluid and saline.\nFood pairing : All kinds of fresh and canned seafood, especially those from the Galician estuaries. Fish and creamy risotto or dry paella type rice and fish dishes. Japanese and Peruvian cuisine (sushi, ceviche, tiraditos, etc..)",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Hiszpania/La%20Poda/Albarino-767x1100.jpg",
+      "price": 68.0,
+      "units_in_stock": 114,
+      "color": 2,
+      "year": 2022,
+      "taste": 1,
+      "alcohol": 13.0,
+      "volume": 750,
+      "country": "PL"
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 11,
+    "fields": {
+      "name": "Alberello",
+      "description": "The sixty year old Negramaro vines which produce half the grapes for this blend (the remaining half are Primitivo) help give this wine its lovely deep colour. There’s a good balance between the fruit and acidity and a hint of spices on the palate.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Wlochy/Racemi/Felline%20Alberello-767x1100.jpg",
+      "price": 48.0,
+      "units_in_stock": 70,
+      "color": 1,
+      "country": "IT",
+      "year": 2019,
+      "taste": 1,
+      "volume": 750,
+      "alcohol": 8.0
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 12,
+    "fields": {
+      "name": "Ali JÓ Reserva",
+      "description": "Bright ruby color, aroma of ripe red fruits, notes of dark chocolate, slight perception of minerality and well-integrated toast. Fruity mouth with ripe tannins present, with long and elegant finish.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Portugalia/Encostas/Ali%20Jó%20Encostas-767x1100.jpg",
+      "price": 42.0,
+      "units_in_stock": 119,
+      "color": 1,
+      "year": 2020,
+      "taste": 1,
+      "alcohol": 13.5,
+      "volume": 750,
+      "country": "HU"
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 13,
+    "fields": {
+      "name": "Altura Maxima",
+      "description": "The Passion, persistence and ruthless determination of Donald Hess drove him on to plant a vineyard at the highest altitude in the world at 3111metres above sea level (10200ft). Our wines represent the highest expression of Malbec, Pinot Noir and Sauvignon Blanc.\nSauvignon Blanc is the white variety that best adapts itself to the extreme conditions of Altura Máxima: it sprouts after the late frosts in spring and ripens before the early frosts in autumn.\n \nThe poor and stony soil produces a very high quality and sophisticated grape. The scent of white fruits and minerals is enhanced by an elegant herbal touch. Since 2005, Winemaker Thibaut Delmotte has crafted wines of distinction and international acclaim for Bodega Colomé, while staying true to its French origins.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Argentyna/Altura%20Maxima%20Sauvignon%20Blanc-767x1100.png",
+      "price": 154.0,
+      "units_in_stock": 90,
+      "color": 2,
+      "year": 2021,
+      "taste": 1,
+      "alcohol": 12.5,
+      "volume": 750,
+      "country": "HU"
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 14,
+    "fields": {
+      "name": "Altura",
+      "description": "Altura is the finest wine the Silva family can produce. It’s extremely limited production, only 12,194 bottles, comes from select mini plots on the family’s Los Lingues Estate, situated in the North East corner of the now famous Colchagua Valley; and, on the rolling slopes which form the foothills of the magnificent Andes Mountains. The estate is recognised today as one of Chile’s most exciting vineyards. A magical spot with exceptional soils, and a unique mountain breeze that blows every afternoon ensuring perfect, slow ripening.\nLive and intense deep ruby colour. On the nose, elegant and complex with notes of ripe red fruits, blackberry and dried plums. Excellent balance between French oak and fruit. On the palate, intense, full, rich and expressive. Round with elegant tannins, which leads through to a very long and harmonious finish. It clearly shows the exceptional terroir of Los Lingues.\n100% of the wine is aged in new French oak barrels for 14 months.And in the bottle for 4 year. Delicious with pheasant and venison, it goes perfectly with seasoned meats such as fillet steak, duck à l’orange and roast lamb with rosemary. Or enjoy this elegant wine with a juicy beef Wellington.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Chile/Casa%20Silva/Altura%20Casa%20Silva-767x1100.jpg",
+      "price": 378.0,
+      "units_in_stock": 77,
+      "color": 1,
+      "year": 2015,
+      "taste": 1,
+      "alcohol": 14.5,
+      "volume": 750,
+      "country": "ES"
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 15,
+    "fields": {
+      "name": "Amalaya blanco",
+      "description": "A blend of Torrontes and Riesling. The wine is bright yellow with green edges. It has subtle and layered aromas of apple, grapefruit, melon and honeysuckle. The taste is floral and fresh with mineral notes. The finish is long, yet crisp.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Argentyna/Amalaya%20blanco%20+%20james-767x1100.jpg",
+      "price": 43.0,
+      "units_in_stock": 49,
+      "color": 2,
+      "country": "AR",
+      "year": 2022,
+      "taste": 1,
+      "alcohol": 13.0,
+      "volume": 750
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 16,
+    "fields": {
+      "name": "Amalaya Rose",
+      "description": "A unique Rose blend made from Malbec and Torrontes. On the nose, a very subtle floral aroma of orange blossoms from the Torrontés and strawberry notes typical of Malbec. Very Fresh. In mouth, refreshing entry, velvety and fruiy. Medium body which preserves freshness and fruitness. The final is fresh, elegant and the torrontes floral notes outstand in a subtle way.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Argentyna/Amalaya%20Rosado%202022-767x1100.png",
+      "price": 43.0,
+      "units_in_stock": 14,
+      "color": 3,
+      "year": 2022,
+      "taste": 1,
+      "alcohol": 13.5,
+      "volume": 750,
+      "country": "HU"
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 17,
+    "fields": {
+      "name": "Amalaya",
+      "description": "Bright pale yellow colour. Fruity aromas with notes of banana and pineapple, accompanied with a soft floral freshness given by the riesling . On the mouth it is creamy and sweet, with a perfect balance between acidity and sugar. Lingering citrus notes come in the end, with a fresh aftertaste.\nPerfect with salads, white meats, blue cheese, sweet and sour dishes, desserts, fruit and cheese.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Argentyna/Amalaya%20Dulce-767x1100.png",
+      "price": 48.0,
+      "units_in_stock": 123,
+      "color": 2,
+      "year": 2022,
+      "taste": 4,
+      "alcohol": 10.5,
+      "volume": 750,
+      "country": "AR"
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 18,
+    "fields": {
+      "name": "Amalaya",
+      "description": "Delicate and sophisticated. Amalaya Brut Nature is a harmonious blend of two emblematic varieties, the Calchaquí Valley, Salta. Riesling-Torrontés is the perfect blend for this sparkling wine of great aromatic persistence with fruity notes.\nBright golden color and fine bubbles.\nNose: fresh sensation with subtle scent of orange blossom exuded by Torrontés, together with fresh fruity notes such as green apple and pineapple stemming from Riesling.\nFlavour: the wine opens dynamically, with minerals and medium volume, preserving freshness, and closes delicately acid. Fresh and elegant persistence.\nRecommended consumption temperature: from 6° to 8°C. Pairing: refreshing sparkling wine ideal for a celebration, with green salads, soft cheese, sea food, sushi, and ceviche or as aperitif.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Argentyna/Amalaya%20Brut%20Nature...-767x1100.png",
+      "price": 62.0,
+      "units_in_stock": 4,
+      "color": 8,
+      "year": 1934,
+      "taste": 1,
+      "alcohol": 12.5,
+      "volume": 750,
+      "country": "IT"
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 19,
+    "fields": {
+      "name": "Amalaya",
+      "description": "Brilliant ruby color with violet edges. Strawberries, raspberries and ripe fruit with touch of pepper and spices aromas and elegant floral notes. In mouth, flavors of red fruit, spice and hints of vanilla from aging in French oak. Very nice freshness. Round, soft tannins lead to a delicate, lingering finish.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Argentyna/Amalaya%20Malbec%20+%20James-767x1100.jpg",
+      "price": 53.0,
+      "units_in_stock": 10,
+      "color": 1,
+      "country": "AR",
+      "year": 2021,
+      "taste": 1,
+      "alcohol": 14.0,
+      "volume": 750
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 20,
+    "fields": {
+      "name": "Amarone della Valpolicella",
+      "description": "An Italian classic. The grapes are dried on racks for two months after the harvest which concentrates sugar levels in the grapes and enables a fuller, denser wine to be produced. Amarone della Valpolicella is the most prestigious and well known wine from the Verona area and one of Italy`s most important red wines. Intense garnet red colour with an elegant, spicy and complex nose. This is a full bodied wine with a luxurious mouthfeel. On the palate there are notes of sour cherries with hints of ripe plum, cinnamon and spices. This is a beautifully structured wine with a velvety feel, very soft tannins and a gentle acidity. The finish is long, full and spicy. Fantastic companion for strong cheeses, roasted venison or pheasant.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Wlochy/Fabiano/Fabiano%20Amarone%20della%20Valpolicella-767x1100.jpg",
+      "price": 189.0,
+      "units_in_stock": 8,
+      "color": 1,
+      "country": "IT",
+      "year": 2019,
+      "taste": 1,
+      "alcohol": 15.5,
+      "volume": 750
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 21,
+    "fields": {
+      "name": "Autentico",
+      "description": "Higher altitudes offer more sun, less UV protection and produce a thicker skinned grape that delivers a more robust taste with fresh acidity to support it. Today this wine is crafted with a minimalist approach – no oak influence so the “authentic” expression of Malbec highlights the terroir of the region.\nThis wine is intense in color and full of aromas like cherries, blackberries, figs, cassis and cloves with elegant spice and mineral notes. The mouth is crisp and robust with a high concentration of ripe and round tannins.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Argentyna/Colome%20Malbec%20Autentico-767x1100.jpg",
+      "price": 129.0,
+      "units_in_stock": 83,
+      "color": 1,
+      "year": 2020,
+      "taste": 1,
+      "alcohol": 14.5,
+      "volume": 750,
+      "country": "PL"
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 22,
+    "fields": {
+      "name": "Barbera d'Alba Superiore DOC",
+      "description": "Wine produced from the Barbera vineyards of Monforte d’Alba, Barolo, Novello and Madonna di Como, where the terrain is very steep and rich in clay and tuff.\nAged for 12 months in oak casks and barrels. Lively purple ​​red colour. Bouquet of red fruits and spices; structured and complex flavour, very pleasant woody notes. Ideal as an accompaniment to cheeses and boiled meat.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Wlochy/Franco%20Conterno/Franco%20Conterno%20Barbera%20DAlba-767x1100.jpg",
+      "price": 79.0,
+      "units_in_stock": 74,
+      "color": 1,
+      "country": "IT",
+      "year": 2021,
+      "taste": 1,
+      "alcohol": 14.5,
+      "volume": 750
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 23,
+    "fields": {
+      "name": "Barolo Riserva",
+      "description": "From the most prestigious cru – Bussia – located in the comune of Monforte d’Alba, where the terrain is very steep, malleable and rich in clay, the Barolo Riserva DOCG is born.\nBrilliant grenade red in colour with soft orange notes, it is rich and complex on the nose with floral hints enhanced by traditionally new wood. Rich, sweet, thick, tannic, rough and firm on the palate. Aged in oak barrels for 48 months.\nIdeal with meat shanks, duck and cheeses.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Wlochy/Franco%20Conterno/barolo-riserva-docg-bussia-767x1100.png",
+      "price": 289.0,
+      "units_in_stock": 60,
+      "color": 1,
+      "year": 2015,
+      "taste": 1,
+      "alcohol": 14.5,
+      "volume": 750,
+      "country": "IT"
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 24,
+    "fields": {
+      "name": "Barolo",
+      "description": "Wine produced from the Panerole Cru, located in the Novello area.\nAged in oak barrels for 30 months. Vibrant grenade ​​red colour; rich and complex nose; coarse, young and tannic flavour. Perfect with braised and red meats.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Wlochy/Franco%20Conterno/Franco%20Conterno%20Barolo-767x1100.jpg",
+      "price": 198.0,
+      "units_in_stock": 90,
+      "color": 1,
+      "country": "IT",
+      "year": 2019,
+      "taste": 1,
+      "alcohol": 14.5,
+      "volume": 750
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 25,
+    "fields": {
+      "name": "Barolo",
+      "description": "Only the best vintages give life to the Riserva Sette7anni, made with grapes from the most important vineyards, Bussia, Panerole and Pugnane, located respectively in Monforte d’Alba, Novello and Castiglione Falletto.\nBrilliant grenade red in colour with soft orange notes, it is rich and complex on the nose with floral hints enhanced by traditionally new wood. Rich, sweet, thick, tannic, rough, and strong on the palate. Aged in oak barrels for 84 months.\nExcellent with braised and red meats and mature cheeses.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Wlochy/Franco%20Conterno/Franco%20Conterno%20Barolo%20Risevra%207anni-767x1100.png",
+      "price": 420.0,
+      "units_in_stock": 37,
+      "color": 1,
+      "year": 2014,
+      "taste": 1,
+      "alcohol": 14.5,
+      "volume": 750,
+      "country": "ES"
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 26,
+    "fields": {
+      "name": "Big John white",
+      "description": "Chardonnay grapes fermented in new oak barrels. The fruity Sauvignon Blanc adds a pleasant lightness to the fully ripe, characterful Chardonnay and supplements it with fine hints of spice and ripe acidity. The result out of this combination is a refined, fruity white wine with great potential.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Austria/Austria%20Big%20John%20white-767x1100.jpg",
+      "price": 74.0,
+      "units_in_stock": 11,
+      "color": 2,
+      "country": "AT",
+      "year": 2022,
+      "taste": 1,
+      "volume": 750,
+      "alcohol": 11.0
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 27,
+    "fields": {
+      "name": "Big John",
+      "description": "Dense ruby red with violet edges, total fruitiness and aroma of caramel, complex and layered, powerful tannins with oak roasted flavor. 12 months in new American oak barrels.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Austria/Austria%20Big%20John-767x1100.jpg",
+      "price": 99.0,
+      "units_in_stock": 84,
+      "color": 1,
+      "year": 2020,
+      "taste": 1,
+      "alcohol": 14.0,
+      "volume": 750,
+      "country": "PL"
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 28,
+    "fields": {
+      "name": "Black Primitivo",
+      "description": "Bright red with fruity, balsamic and spicy notes. On the palate it is fresh, full and soft, with an elegant balance between sweetness and tannin.\nIn 300-liter French oak for 8 months, in 50hl barrels for 4 months, then in bottle for 6 months. Ideal with grilled roasts.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Wlochy/Teanum/Black%20Primitivo%20Teanum-767x1100.png",
+      "price": 79.0,
+      "units_in_stock": 102,
+      "color": 1,
+      "year": 2019,
+      "taste": 1,
+      "alcohol": 15.0,
+      "volume": 750,
+      "country": "AR"
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 29,
+    "fields": {
+      "name": "Blanc de Blancs",
+      "description": "Picking this Chardonnay super early ensures the zingy acidity necessary to produce quality sparkling wine in our hot, dry, southern French climate. We used the method traditional to create this sparkling wine. We hand picked and whole bunch pressed the fruit to minimise extraction of colour and phenolics before cold settling and fermentation in temperature controlled stainless steel tanks. The wine underwent secondary fermentation in the bottle and then spent 12 months ageing on its lees prior to disgorgement.\nColour – Paleset straw gold with a fine bead.Nose – Clean, crisp, citrus notes on the nose with underlying marzipan and apricot.Palate – Great acidity with light fruit and a hint of biscuit.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Francja/Domaine%20Saint%20Rose/Blanc%20de%20Blanc%20Domaine%20Sainte%20Rose-767x1100.png",
+      "price": 79.0,
+      "units_in_stock": 73,
+      "color": 8,
+      "year": 2018,
+      "taste": 1,
+      "alcohol": 12.0,
+      "volume": 750,
+      "country": "IT"
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 30,
+    "fields": {
+      "name": "Blanc de Mer",
+      "description": "Pristine aromas of dried apricots, lime and green banana opens to jasmine flower and crushed pineapple flavours. Light bodied, yet supple and lusciously textured. Mouthwatering and refreshing now, but possess enticing depth to develop further layered complexity. A persistent saline interest drives the finish.\nA wine for all seasons! Effortless drinking qualities make the Blanc de Mer a popular aperitif, however it’s suitability to fresh seafood is unmatched – think Thai red prawn curry, bouillabaisse or simply oysters. The wine will also complement any picnic basket.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/RPA/Bouchard%20Finlayson/Bouchard%20Finlayson%20Blanc%20de%20Mer!-767x1100.png",
+      "price": 62.0,
+      "units_in_stock": 17,
+      "color": 2,
+      "country": "ZA",
+      "year": 2022,
+      "taste": 1,
+      "alcohol": 13.0,
+      "volume": 750
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 31,
+    "fields": {
+      "name": "Blanc Sec",
+      "description": "A delicate pale yellow robe, the nose is dominated by citrus fruit, white peaches with a hint of white flowers. This wine, typically sauvignon in style, is crisp and fruity on the pallet with a refreshing finish.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Francja/Teyssier/Pezat%20blanc%202019-767x1100.jpg",
+      "price": 59.0,
+      "units_in_stock": 67,
+      "color": 2,
+      "country": "FR",
+      "year": 2022,
+      "taste": 1,
+      "alcohol": 13.0,
+      "volume": 750
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 32,
+    "fields": {
+      "name": "Blaufränkisch Classic",
+      "description": "Dense purple, spicy flavor of blackberry with a delicately sweet fruit glaze, powerful tannins supported by a strong body.\nLight main dishes, hearty appetizers.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Austria/Blaufraenkisch%20Classic-767x1100.png",
+      "price": 62.0,
+      "units_in_stock": 61,
+      "color": 1,
+      "year": 2021,
+      "taste": 1,
+      "alcohol": 13.5,
+      "volume": 750,
+      "country": "ES"
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 33,
+    "fields": {
+      "name": "Blaufränkisch Jois",
+      "description": "The hillside of the Leithagebirge, 30 year old vines. Blaufränkisch, without irrigation, time. Vinophilie. Erich Scheiblhofer ́s Barrique cellars in Andau give ideal conditions for exceptional grapes. 18 months new French oak. The mighty Blaufränkisch presents exotic and oxplosive structure. On the palate occur minerality, tannin structure and length to the front. After some time in the glass the blaufränkisch typical cherry fruit that makes the wine refreshing and attractive in combination with the acid-present developed.\nIdeal with lamb, beef, hearty sauces.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Austria/Jois-767x1100.png",
+      "price": 132.0,
+      "units_in_stock": 79,
+      "color": 1,
+      "year": 2020,
+      "taste": 1,
+      "alcohol": 14.5,
+      "volume": 750,
+      "country": "AR"
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 34,
+    "fields": {
+      "name": "Blaufränkisch Reserve",
+      "description": "Strong ruby garnet with violet highlights. Iintense notes of nougat and balm in the nose, blackberry jam, spicy oak. Bodied on the palate and complex, spicy dark berry fruit shaded, well-integrated tannins, coconut dominates the aftertaste, very modern styled Blaufränkisch.\nIdeal with light main dishes, hearty appetizers.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Austria/Blaufraenkisch_Reserve-767x1100.png",
+      "price": 83.0,
+      "units_in_stock": 61,
+      "color": 1,
+      "year": 2019,
+      "taste": 1,
+      "alcohol": 14.0,
+      "volume": 750,
+      "country": "ES"
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 35,
+    "fields": {
+      "name": "Bolle Rose",
+      "description": "Andreola winery is located in the heart of the Valdobbiadene Prosecco Superiore zone. \"Bolle\" is produced in a picturesque town called Col San Martino. The wine was first produced in 1984 on vines planted in loamy clay and sandstone subsoils. The wine is composed of 100% Incrocio Manzoni, clone 13.0.25, named after Professor Luigi Manzoni, which is a cross between Rabosa Piave and Moscato Ambugro. This bright and fresh expression of Prosecco rosé finishes totally dry.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Wlochy/Andreola/Bolle%20Rose-767x1100.png",
+      "price": 54.0,
+      "units_in_stock": 39,
+      "color": 8,
+      "year": 1931,
+      "taste": 5,
+      "alcohol": 12.0,
+      "volume": 750,
+      "country": "PL"
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 36,
+    "fields": {
+      "name": "Bolle",
+      "description": "Andreola Bollé Extra Dry is a very pleasant, aromatic and balanced sparkling wine. With a straw yellow appearance, it has a fine and persistent perlage. On the nose it offers a slightly floral and slightly fragrant olfactory bouquet. On the palate it is fresh, vibrant, with a very clean finish. Excellent as an aperitif, it goes well with small samples based on sushi and sashimi.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Wlochy/Andreola/BOLLE-CUVEE-EXTRA-DRY-OMBRA-767x1100.png",
+      "price": 54.0,
+      "units_in_stock": 67,
+      "color": 8,
+      "year": 2006,
+      "taste": 5,
+      "alcohol": 11.0,
+      "volume": 750,
+      "country": "IT"
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 37,
+    "fields": {
+      "name": "Brunello di Montalcino",
+      "description": "The Brunello di Montalcino is one of Italy's most important and prestigious wines. The grapes are grown within the hillsides of the township of Montalcino (Siena). Intense ruby red colour, with pale pomegranate highlights. Bouquet is decisive, fine, broad and lingering with hints of vanilla, cherry, raspberry, and licorice. Dry, warm and smooth flavor, well-textured and lingering on the palate. Great wine with roasts, grilled meats, wild game, and elaborate dishes, as well as rare T-bone steaks.It can also be served alone, as a “reflection” wine.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Wlochy/Carpineto/Carpineto%20Brunello%20di%20Montalcino%202014-767x1100.jpg",
+      "price": 218.0,
+      "units_in_stock": 91,
+      "color": 1,
+      "country": "IT",
+      "year": 2018,
+      "taste": 1,
+      "alcohol": 14.5,
+      "volume": 750
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 38,
+    "fields": {
+      "name": "Cabernet Sauvignon / Carmenere / Petit Verdot",
+      "description": "This special limited edition cuvee was made to celebrate five generations of winemaking by the Silva family in the Colchagua Valley, widely regarding as the place now producing the most complex and sophisticated wines in all of Chile. A superb blend of handpicked grapes from small plots of very old vines. Aged in new French oak barriques. Intense, dark ruby red with violet hues. On the nose, powerful with notes of blackberries, toffee and fudge. On the palate, soft, sweet tannins, round, balanced acidity, very good structure with black fruit and blueberry notes, a long long finish. A collector’s wine with great aging potential.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Chile/cabernet-sauvignon-carmenere-petit-verdot-quinta-gen-2011-2012-casa-silva-chile-145-767x1100.jpg",
+      "price": 108.0,
+      "units_in_stock": 38,
+      "color": 1,
+      "country": "CL",
+      "year": 2021,
+      "taste": 1,
+      "volume": 750,
+      "alcohol": 15.0
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 39,
+    "fields": {
+      "name": "Cabernet Sauvignon",
+      "description": "The wine shows typical Cabernet Sauvignon flavour and aroma profiles of dark berries and tobacco with a well-structured and lengthy palate. Aging Potential - up to 12 years from vintage under ideal cellaring conditions.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/RPA/Rustenberg/cabernet-sauvignon-2014-stellenbosch-rustenberg-rep-pld-afryki-524-767x1100.jpg",
+      "price": 69.0,
+      "units_in_stock": 117,
+      "color": 1,
+      "country": "ZA",
+      "year": 2021,
+      "taste": 1,
+      "alcohol": 14.0,
+      "volume": 750
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 40,
+    "fields": {
+      "name": "Cabernet Sauvignon",
+      "description": "Dark ruby color. On the nose, ripe red fruits with notes of black pepper and hints on tobacco. On the palate, powerful, yet soft, it is round with firm tannins, that lead to an excellent and very long finish.\nThis Classic Cabernet is the perfect partner for meats such as roast beef, fillet or a juicy rack of ribs. It also pairs beautifully with ravioli dishes, casseroles and stews.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Chile/cabernet-sauvignon-gran-terroir-los-lingunes-2013-2014-casa-silva-chile-131-767x1100.png",
+      "price": 76.0,
+      "units_in_stock": 36,
+      "color": 1,
+      "country": "CL",
+      "year": 2021,
+      "taste": 1,
+      "volume": 750,
+      "alcohol": 8.0
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 41,
+    "fields": {
+      "name": "Cabernet Sauvignon",
+      "description": "This is an elegant Cabernet Sauvignon with intense aromas of mixed berries, woody herbs dark chocolate and violets. The palate is smooth and persistent, with blackcurrant and spicy oak flavours, before finishing with soft and subtle tannins. Oak maturation :12 months new (10%) and seasoned French oak puncheons\nRack of lamb or beef, an excellent pub or pizza wine.\nAwards :\nGold - Royal Hobart Wine Show 2022 \nSilver - Langhorne Creek Wine Show 2023 \nSilver - James Halliday Australian Cabernet Challenge 2022 \nSilver - Perth Royal Wine Awards 2022 \nSilver - Riverina Wine Show 2022 \nSilver - Rutherglen Wine Show 2022 \n95 points James Halliday",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Australia/Bleasdale%20nowe/Bleasdale%20Cab%20Mulberry%202019-767x1100.png",
+      "price": 65.0,
+      "units_in_stock": 25,
+      "color": 1,
+      "country": "AU",
+      "year": 2021,
+      "taste": 1,
+      "alcohol": 13.5,
+      "volume": 750
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 42,
+    "fields": {
+      "name": "Cabernet Sauvignon/Carmenere",
+      "description": "An easy drinking wine with soft berry fruit predominating on the palete.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Chile/Casa%20Silva/cabernet-sauvignon-carmenere-silva-family-wines-2015-2016-casa-silva-chile-130-767x1100.jpg",
+      "price": 46.0,
+      "units_in_stock": 58,
+      "color": 1,
+      "country": "CL",
+      "year": 2021,
+      "taste": 1,
+      "volume": 750,
+      "alcohol": 11.0
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 43,
+    "fields": {
+      "name": "Cabernet Sauvignon/Merlot",
+      "description": "Saturated, dark ruby with a neon-purple edge, Coleraine ’18 tantalizes with fragrant ripe cherry and fresh, black plum aromatics. The bouquet blossoms over a silky palate laden with lavender, sandalwood, cigar box, juniper and wild blackberry. With typicallyrefined tannins and a modern, pure, ripe-fruit freshness, Coleraine ’18 is energetic, supple and lithe. Balanced, and on point, Coleraine ’18 dances across the senses now, and will do for years to come – classically Coleraine.\nColeraine is closed with a natural cork, allowing continued evolution in bottle. \nAwards: \n98/100 Huon Hooke 98/100 Bob Campbell 97/100 The Winefront 94/100 Wine Enthusiast",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Nowa-Zelandia/Te%20Mata%20Estate/Te%20Mata%20Coleraine%202018%20+%20recomm%20png-767x1100.png",
+      "price": 348.0,
+      "units_in_stock": 39,
+      "color": 1,
+      "year": 2018,
+      "taste": 1,
+      "alcohol": 13.0,
+      "volume": 750,
+      "country": "IT"
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 44,
+    "fields": {
+      "name": "Cabernet/Merlot",
+      "description": "Awatea takes its name from the historic ship SS Awatea (a Maori word meaning “Eye of the Dawn”) that sailed the Auckland – Sydney – Wellington route in the late 1930s. The Awatea was requisitioned as a troop transport in WWII and was sunk off Algeria in 1942.\nInk-dark crimson, Awatea Cabernets/Merlot ’18 glimmers with bright raspberry, cherry and blackberry sparkling over mocha, cedar and spice. Always a favourite expression of fine Hawke’s Bay cabernet, Awatea from 2017 is refreshing and moreish as well as typically elegant. Aromas of red and dark berry fruit, flashes of boysenberry and espresso on the palate, and a classical, super-fine, tannin structure running through to its long finish make Awatea Cabernets/Merlot ’18 a true star. Trying this first is a good way to approach Coleraine, the winery’s flagship wine and consistently one of New Zealand’s very best reds.\nClosed with a natural cork that will allow Awatea to continue to evolve in bottle and provide great enjoyment up to 10 years from harvest.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Nowa-Zelandia/Te%20Mata%20Estate/Te%20Mata%20Awatea-767x1100.jpg",
+      "price": 124.0,
+      "units_in_stock": 94,
+      "color": 1,
+      "country": "NZ",
+      "year": 2019,
+      "taste": 1,
+      "alcohol": 13.5,
+      "volume": 750
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 45,
+    "fields": {
+      "name": "Calderara Sottana Bianco",
+      "description": "Fantastic Etnakreszenz of up to 60 years old vines from small single vineyard with wonderfully balanced iodine and citrus aromas. Softly flowing on the palate, deep in the taste, the fine acidity and delicate wood note well integrated into the overall concept.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Sycylia/Calderara%20Sottana%20Bianco-767x1100.jpg",
+      "price": 196.0,
+      "units_in_stock": 96,
+      "color": 2,
+      "year": 2020,
+      "taste": 1,
+      "alcohol": 13.5,
+      "volume": 750,
+      "country": "HU"
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 46,
+    "fields": {
+      "name": "Calderara Sottana Rosso",
+      "description": "Calderara Sottana’s soil is easily recognizable at first sight. Of all the crus of the Etna appellation it is by far the stoniest. So much so, that in the most remarkable examples you cannot see the soil for the stones: fist sized, light weight, black volcanic pumice. The word Calderara is reminiscent of “caldera” or “cauldron”, probably due to the fact that the black rocks hold the day’s heat through part of the night.\nCalderara Sottana is a single vineyard wine produced only from vineyards between 50-100 years old. Of all single vineyard wines it is perhaps the most complete: much like a wide angle lens encompasses the most ample panorama, so Calderara seems to contain and display the widest spectrum of flavors, bouquets, nuances. Floral and spicy, leathery and aromatic, it delivers a wonderful filling sensation on the palate, yet stepping lightly.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Sycylia/Calderara%20Sottana%20Rosso-767x1100.jpg",
+      "price": 276.0,
+      "units_in_stock": 69,
+      "color": 1,
+      "year": 2019,
+      "taste": 1,
+      "alcohol": 14.0,
+      "volume": 750,
+      "country": "ES"
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 47,
+    "fields": {
+      "name": "Carmenere",
+      "description": "The Colchagua Valley where the grapes for this wine are grown is home to many of Chile’s top premium wines, this beautifully expressive Carmenere amongst them. Deep ruby with a violet rim. On the nose, intense, with notes of ripe black fruits with hints of wild forest fruits. On the palate, good balance between fruit and oak, good structure, powerful, sweet and round tannins, and notes of boysenberries and hints of tobacco. Excellent finish. This Carmenere will accompany a surprisingly broad range of dishes. It’s sensational with lamb stew, beef Wellington, seasoned turkey, Thai red curry chicken or any kind of barbecued meat. Also ideal with kebabs, Indian or Mediterranean food.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Chile/carmenere-gran-terroir-los-lingues-2015-casa-silva-chile-133-767x1100.png",
+      "price": 76.0,
+      "units_in_stock": 114,
+      "color": 1,
+      "country": "CL",
+      "year": 2021,
+      "taste": 1,
+      "volume": 750,
+      "alcohol": 10.0
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 48,
+    "fields": {
+      "name": "Carmenere",
+      "description": "Colchagua Valley is Chile’s premier Carmenere region. The Silva family have been pioneers of many award winning Carmeneres from their Los Lingues estate. Lying at the foot of the Andes, this vineyard was selected for Chile’s first ever Microterroir project-a historic moment for Chilean viticulture. Just a few small parcels from the project went into producing this limited edition Carmenere. It is a wine which tells the story of the family’s constant search for genuine quality, at the highest level.\nIntense ruby red with violet hues. On the nose, delicate aromas of red and black fruits with hints of coffee. On the palate, harmonious, with very good structure, soft tannins and notes of ripe red fruits, spices and a soft touch of black pepper. Long, lingering finish.\n100% in French oak barrels for 12 months (depending on degustation of the panel of enologists). A surprisingly diverse variety which will accompany a broad range of dishes.\nThis It goes perfectly with roast lamb with rosemary, juicy filled steak, stuffed chicken, pork ribs or any kind of barbecued meat. Ideal for Indian or Spanish food.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Chile/Casa%20Silva/Casa%20Silva%20Microterroir-767x1100.jpg",
+      "price": 218.0,
+      "units_in_stock": 51,
+      "color": 1,
+      "year": 2019,
+      "taste": 1,
+      "alcohol": 14.5,
+      "volume": 750,
+      "country": "PL"
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 49,
+    "fields": {
+      "name": "Carmenere",
+      "description": "Bright and intense ruby red.On the nose, aromas of black cherries and plums with hints of spices. On the palate, flavoursome: round, powerful, with sweet soft tannins and balanced acidity. Long finish.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Chile/Casa%20Silva/carmenere-reserva-2015-casa-silva-chile-132-767x1100.jpg",
+      "price": 64.0,
+      "units_in_stock": 77,
+      "color": 1,
+      "country": "CL",
+      "year": 2021,
+      "taste": 1,
+      "volume": 750,
+      "alcohol": 7.0
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 50,
+    "fields": {
+      "name": "Cava",
+      "description": "Straw yellow Cava with greenish tones. Living, fine and persistent bubble. In the nose it is frank, highlight aromas of white fruits and citrus notes with a background of very elegant pastries. On the palate it is round, easy step, its effervescence envelops the palate leaving a long aftertaste with hints of ripe fruit.\nThis complex Cava is ideal to enjoy during the whole meal, being especially suitable for rice dishes, seafood, fish baked, Pasta or even accompanying a good duck Magret.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Hiszpania/Cavas%20Uveste/Cava%20organic%20Alvaroni-767x1100.png",
+      "price": 39.0,
+      "units_in_stock": 77,
+      "color": 8,
+      "year": 1941,
+      "taste": 1,
+      "alcohol": 11.5,
+      "volume": 750,
+      "country": "HU"
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 51,
+    "fields": {
+      "name": "Cava",
+      "description": "The best white organic grapes from Requena were selected to become the base of this Cava. It has remained in total calm for more than 12 months at 15ºC and without any sudden changes in temperature or light. It has been growing in complexity and roundness in the mouth and polishing the finesse of its bubble.\nStraw yellow Cava with greenish tones. Living, fine and persistent bubble. In the nose it is frank, highlight aromas of white fruits and citrus notes with a background of very elegant pastries. On the palate it is round, easy step, its effervescence envelops the palate leaving a long aftertaste with hints of ripe fruit.\nThis complex Cava is ideal to enjoy during the whole meal, being especially suitable for rice dishes, seafood, fish baked, Pasta or even accompanying a good duck Magret.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Hiszpania/Cavas%20Uveste/Cava%20Bella%20Mistala%20jpg-767x1100.jpg",
+      "price": 45.0,
+      "units_in_stock": 72,
+      "color": 8,
+      "year": 1934,
+      "taste": 1,
+      "alcohol": 11.5,
+      "volume": 750,
+      "country": "IT"
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 52,
+    "fields": {
+      "name": "Chablis",
+      "description": "This Chablis' crystalline limpidity and its pale yellow colour with light green highlights tell a great deal about its character which is bursting with mineral precision and finesse. Very pure nose that is typical of Chablis (white flowers, flint) opens up to a palate that boasts an elegant combination of almond notes and lovely vivacity.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Francja/chablis-domaine-long-depaquit-2015-domaine-albert-bichot-francja-427-767x1100.jpg",
+      "price": 154.0,
+      "units_in_stock": 31,
+      "color": 2,
+      "country": "FR",
+      "year": 2021,
+      "taste": 1,
+      "alcohol": 12.5,
+      "volume": 750
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 53,
+    "fields": {
+      "name": "Chalklands",
+      "description": "Simpsons’ Wine Estate creates fine English sparkling wines, which reflect the exquisite characteristics of their iconic, chalk terroir in the North Downs of Kent.\nCreated from estate grown Chardonnay and Pinot Noir grapes, our traditional method classic cuvée is the epitome of English elegance. Pale gold in colour, it has an enticing caramelised pear and floral millefeuille pastry nose with bright citrus flavours, linear precision and impressive length.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Wielka%20Brytania/Simpsons%20Chalklands-767x1100.jpg",
+      "price": 158.0,
+      "units_in_stock": 75,
+      "color": 8,
+      "year": 1966,
+      "taste": 1,
+      "alcohol": 12.0,
+      "volume": 750,
+      "country": "HU"
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 54,
+    "fields": {
+      "name": "Champagne",
+      "description": "If it’s the product you are interested in rather than the label, then this is a great buy for gifts, parties and any private celebration you can think of.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Francja/Moutard/Moutard%20Brut%202-767x1100.jpg",
+      "price": 158.0,
+      "units_in_stock": 13,
+      "color": 8,
+      "country": "FR",
+      "taste": 1,
+      "volume": 750,
+      "year": 1934,
+      "alcohol": 7.0
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 55,
+    "fields": {
+      "name": "Chardonnay",
+      "description": "Handpicked premium fruit from select Adelaide Hills Vineyards has been gently whole bunch pressed direct to premium French Oak. Attractive white peach, white nectarine and lemon aromas with nuances of pear, roasted almonds along with toasty oak. The palate shows huge, structured length of fruit with complex subtle nougat flavours, good acidity and balance. To be enjoyed over the next 3 to 4 years.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Australia/Bleasdale%20nowe/Bleasdale%20Chardonnay%20Adelaide%202021-767x1100.png",
+      "price": 68.0,
+      "units_in_stock": 60,
+      "color": 2,
+      "country": "AU",
+      "year": 2020,
+      "taste": 1,
+      "alcohol": 12.5,
+      "volume": 750
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 56,
+    "fields": {
+      "name": "Chardonnay",
+      "description": "Hand picked and gently pressed straight to barrel (15% new) for eighteen months. No juice clarification with 100% wild primary and secondary fermentations. Bottled without fining and with only minimal filtration.\nColour : Deep straw in colour.\nAroma : A complex array of toasted nuts, lees and smokey tones overlay a pure citrus backbone.Palate : Crisp and pure. The vibrant acidity offers lively structure to the wine with a dense, citrus pith texture and fine finish.\nCellaring : This vintage will have the ability to age well. Seven to ten years.\nPerfect match with scallops, white fish, poultry and BBQ pork.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Nowa-Zelandia/Dog%20Point/Dog%20Point%20Chardonnay%202019-767x1100.jpg",
+      "price": 136.0,
+      "units_in_stock": 41,
+      "color": 2,
+      "year": 2021,
+      "taste": 1,
+      "alcohol": 14.0,
+      "volume": 750,
+      "country": "PL"
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 57,
+    "fields": {
+      "name": "Chardonnay",
+      "description": "Barrel fermented and then aged for 12 months in French oak, this traditional Chardonnay has lovely apricot and orange peel aromas and almond and tropical fruit flavours. Can be enjoyed now or kept for 5-6 years.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/RPA/Rustenberg/chardonnay-stellenbosch-2014-2015-rustenberg-wina-a4389-767x1100.jpg",
+      "price": 82.0,
+      "units_in_stock": 92,
+      "color": 2,
+      "country": "ZA",
+      "year": 2021,
+      "taste": 1,
+      "alcohol": 13.5,
+      "volume": 750
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 58,
+    "fields": {
+      "name": "Chardonnay",
+      "description": "Jules’ take on this variety is a far cry from the big buttery Chardonnay-bombs from the 1990s. Instead Jules prefers a wine with delicate freshness and attractive fruit flavours that express the vineyards in which they were grown. With only 10% new oak and a partial malolactic ferment, this elegant wine that will convert even the most die-hard chardonnay-basher!\nDelicious aromas of red apple and white nectarine are interwoven with grapefruit pith and notes of candied mango. These primary aromas are supported by nougat notes and complex hints of brazil nuts and toffee. This wine is soft and smooth with a lovely polished feel. Plenty of wild fermentation has made it textural and complex whilst retaining fresh, bright acidity. The flavours are mouthfilling and give way to a long, juicy finish.\nTry it with chicken roasted on a bed of lemon and oregano potatoes, or served with a Moroccan couscous salad. Or for a lighter option try it with a farro or cracked wheat salad with roasted tomatoes, broad beans and a tahini dressing.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Nowa-Zelandia/Jules%20Taylor/Jules%20Taylor%20Chardonnay-767x1100.png",
+      "price": 89.0,
+      "units_in_stock": 79,
+      "color": 2,
+      "year": 2022,
+      "taste": 1,
+      "alcohol": 14.0,
+      "volume": 750,
+      "country": "IT"
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 59,
+    "fields": {
+      "name": "Chardonnay",
+      "description": "This is the debut chardonnay from the Kumeu vineyard of a West Auckland Octogenerian producer, and it’s an absolute star. Celebrating the welcoming of the fifth generation of Soljan family members (Tyler and Amber) into the family business. This wine is very limited and will only be made on outstanding years of harvest.\nBarrel aged for 18 months in 50% new French Oak, with 100% malolactic fermentation allows this wine to be very well balanced. A youthful, yet soft, peach and pineapple bouquet, complimented by sparks of lemon rind and toasted oak. The palate is like a fresh crème brûlée, delicately covered in nectarines. Toasted almond and vanilla brioche completes the experience with a smooth buttery finish, which comes from the malolactic fermentation. Drinking outstandingly now, this wine will also age gracefully for many years.\nA style of wine that can pair well with most foods, lighter dishes would bring out the best in this wine, or perhaps an antipasto platter.\nAwards and Accolades : 5 Stars – Sam Kim 5 Stars – Yvonne Lorkin 5 Stars – Michael Cooper",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Nowa-Zelandia/Soljans%20Estate/Soljans%20Chardonnay%205th%20Generations-767x1100.png",
+      "price": 128.0,
+      "units_in_stock": 41,
+      "color": 2,
+      "year": 2019,
+      "taste": 1,
+      "alcohol": 13.5,
+      "volume": 750,
+      "country": "HU"
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 60,
+    "fields": {
+      "name": "Chardonnay",
+      "description": "Another stunning vintage of Chardonnay from Hawke’s Bay, having an elegant nose of fig and nectarine with a toasty brioche aroma that comes from the 12 months aging in French oak Barrique’s. The oak and fruit are nicely integrated on the nose and the palate features nectarine, toasty oak and an abundance of stone fruits. A crème brûlée like creaminess compliments the abundance of stone fruits. Hazelnuts and a softer caramel lead to a smooth balanced finish.\nBeing a fuller style of Chardonnay with a moderate oak influence, it would best be paired with seafood or poultry that has an element of creaminess. For example a creamy chicken and mushroom fettuccine.\nSam Kim, Wine Orbit Feb 2020 – 4.5 stars Beautifully ripe and elegantly complex, showing golden peach, mango, baked fig and vanillin oak characters on the nose. The palate displays lovely weight and succulent fruit flavours together with stylish oak infusion, finishing long and creamy.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Nowa-Zelandia/Soljans%20Estate/Soljans%20Chardonnay%20Barrique%20Reserve%202018-767x1100.jpg",
+      "price": 88.0,
+      "units_in_stock": 44,
+      "color": 2,
+      "country": "NZ",
+      "year": 2020,
+      "taste": 1,
+      "alcohol": 14.0,
+      "volume": 750
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 61,
+    "fields": {
+      "name": "Chardonnay",
+      "description": "Element not found",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Chile/Casa%20Silva/Casa%20Silva%20Chardonnay%20Coleccion-767x1100.jpg",
+      "price": 54.0,
+      "units_in_stock": 107,
+      "color": 2,
+      "year": 2022,
+      "taste": 1,
+      "volume": 750,
+      "country": "HU",
+      "alcohol": 13.0
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 62,
+    "fields": {
+      "name": "Chardonnay",
+      "description": "The grapes for this wine are harvested from non-irrigated vines which help give its rich mineral and fruit flavours. Sleek and refined, a most enjoyable spicy lemon drop aroma complexity announces white peach, nectarine and pear flavour delight. Aged in new French oak barrels A refreshing salinity graces a lasting finish. Aging potential is excellent.\nServe with pan-fried May Porcini mushrooms on bruschetta, freshly boiled West Coast Rock Lobster tail dipped in lemon aioli or simply from your favourite Chardonnay glass in good company.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/RPA/Bouchard%20Finlayson/Bouchard%20Finlayson%20Chardonnay%20Crocodiles%202021-767x1100.jpg",
+      "price": 88.0,
+      "units_in_stock": 73,
+      "color": 2,
+      "country": "ZA",
+      "year": 2021,
+      "taste": 1,
+      "alcohol": 14.0,
+      "volume": 750
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 63,
+    "fields": {
+      "name": "Chardonnay",
+      "description": "Brilliant gold with an edge of bright green, Elston Chardonnay is like a Hawke’s Bay peach picked fresh from the tree. Intricate aromas of ripe stonefruit, nectarine, lemon zest and honey soften into Crème brûlée, citrus and roast nuts. Crisp chardonnay fruit balanced against fine, refreshing acidity gives this wine immaculate poise. It is rich and complex with flavours of fresh pineapple, white peach and nougat. Te Mata Estate’s leading lady, Elston is chardonnay royalty.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Nowa-Zelandia/chardonnay-elston-hawkes-bay-2015-te-mata-estate-nowa-zelandia-82-767x1100.jpg",
+      "price": 139.0,
+      "units_in_stock": 34,
+      "color": 2,
+      "country": "NZ",
+      "year": 2022,
+      "taste": 1,
+      "alcohol": 13.5,
+      "volume": 750
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 64,
+    "fields": {
+      "name": "Chardonnay",
+      "description": "Estate Vineyards Chardonnay has ripe stone fruit and citrus characters, subtly enhanced by fermentation in seasoned oak barrels, lee's contact and a creamy malolactic influence, to create a rich and elegant wine. Estate Vineyards Chardonnay has the aromas of white meadow flowers, French vanilla and floral, juicy Hawke’s Bay peaches. Bright light gold, the palate unfurls with a balance of rock melon, sweet lemon, candied lime and complexing notes of biscuit, stone fruit and grilled nuts. A pure chardonnay with lovely length and a crisp clean finish. Estate Vineyards Chardonnay is delicious own its own, or a wonderful partner for both simply prepared and fuller flavoured seafood, and white meat dishes.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Nowa-Zelandia/chardonnay-estate-vineyards-2015-hawke-s-bay-te-mata-estate-nowa-zelandia-79-767x1100.png",
+      "price": 82.0,
+      "units_in_stock": 62,
+      "color": 2,
+      "country": "NZ",
+      "year": 2023,
+      "taste": 1,
+      "alcohol": 12.5,
+      "volume": 750
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 65,
+    "fields": {
+      "name": "Chardonnay",
+      "description": "Named after five large stone pine trees on a hill standing sentinel over the Five Soldiers vineyards. The Five Soldiers is the apex of Chardonnay at Rustenberg and is a highly collected wine. Characterised by measured power and complexity, designed to be drunk with food and benefitting from a few years of careful cellaring. It illustrates the true character of each vinetage and is a barrel selection of the finest batches of each year.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/RPA/Rustenberg/zestaw-mieszany-3-x-cab-sauvignon-peter-barlow-and-3-chardonnay-five-soldiers-stellenbosch-rustenberg-rpa-darmowa-dostawa-zestawy-a4386-767x1100.jpg",
+      "price": 188.0,
+      "units_in_stock": 71,
+      "color": 2,
+      "country": "ZA",
+      "year": 2020,
+      "taste": 1,
+      "alcohol": 13.5,
+      "volume": 750
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 66,
+    "fields": {
+      "name": "Chardonnay",
+      "description": "Chile’s Best Chardonnay on several occasions at the “Chardonnay du Monde” Competition. If you like lots of fruit and oak you'll find this perfect.\nBalance of structure, freshness and elegance showing the premium potential of Colchagua region with Chardonnay. It is green with golden hues. Tropical fruit on the nose, with a delicate hint of honey. On the palate, buttery with fresh white peach, honey notes and excellent acidic balance. An agreeable, long finish. 30% aged in French oak barrels for 6 months, rest in stainless steel tanks. \n\n\n \nRobert Parker’s Wine Advocate: “Wineries such as Casa Silva have figured out how to produce terrific wines at bargain price”",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Chile/chardonnay-gran-terroir-angostura-2015-casa-silva-chile-127-767x1100.png",
+      "price": 76.0,
+      "units_in_stock": 99,
+      "color": 2,
+      "country": "CL",
+      "year": 2021,
+      "taste": 1,
+      "volume": 500,
+      "alcohol": 11.0
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 67,
+    "fields": {
+      "name": "Chardonnay/Semillon",
+      "description": "Chardonnay brings peachy fruit, while Semillon adds a zesty lemon tang. A small proportion of oak-aged Chardonnay rounds out the blend, bringing a richness of flavour rather than any overt spiciness. The result is a tasty white, full of tropical fruit and melon flavours, honeyed notes and freshness.\nEnjoy solo or with soft white cheeses, roast chicken, white fish or fennel risotto.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Chile/Casa%20Silva/Casa%20Silva%20Chardonnay%20Semillon-767x1100.jpg",
+      "price": 46.0,
+      "units_in_stock": 95,
+      "color": 2,
+      "year": 2022,
+      "taste": 1,
+      "volume": 750,
+      "country": "HU",
+      "alcohol": 8.0
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 68,
+    "fields": {
+      "name": "Chateau Laforge",
+      "description": "James Suckling: 92 Points\nLots of lovely fruit and freshness in this red with blackberry and cherry character, medium body and a round, juicy finish. Very attractive already. Drink after 2023.\nWine Advocate: 90-92+ Points\nMedium to deep garnet-purple colored, the 2019 Laforge opens with notions of pencil shavings, rose hip tea, crushed rocks and cedar chest over a core of warm black and red plums, boysenberries and spice cake. The medium to full-bodied palate is charged with freshness and energy, offering finely grained tannins to support the red and black fruit layers, finishing long and fragrant. Laforge is from the JCP Maltus portfolio of skillfully crafted Saint-Émilion wines.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Francja/Teyssier/Chateau%20Laforge%202019-767x1100.jpg",
+      "price": 298.0,
+      "units_in_stock": 64,
+      "color": 1,
+      "year": 2019,
+      "taste": 1,
+      "alcohol": 13.5,
+      "volume": 750,
+      "country": "IT"
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 69,
+    "fields": {
+      "name": "Chateauneuf-du-Pape",
+      "description": "Since the 14th century when the Popes developed Chateauneuf as their summer palace, the wines of the area have been amongst the best known of the Rhone Valley. Made from Grenache, Syrah and Mouvedre grown in pebbly soils, the wine has a lovely deep colour, is full of fruit and flavour and is best enjoyed with steak, pork and game meats.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Francja/Phillipe%20Bouchard%20Et%20Fils/Chateauneuf%20du%20Pape.-767x1100.jpg",
+      "price": 163.0,
+      "units_in_stock": 82,
+      "color": 1,
+      "country": "FR",
+      "year": 2021,
+      "taste": 1,
+      "alcohol": 15.0,
+      "volume": 750
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 70,
+    "fields": {
+      "name": "Chenin Blanc",
+      "description": "This is the third vintage of Chenin Blanc produced by Rustenberg. While Chenin Blanc has not been planted on the estate since the late 1980’s there is an abundance of superb bush vine Chenin Blanc in Stellenbosch, which we discovered in sourcing fruit for the Straw Wine each vintage. Grapes were hand harvested from 4 different bush vine blocks, 20 to 35 years old, in the Bottelary sub-region of Stellenbosch. This wine is a Rustenberg take on a varietal synonymous with South Africa.\nAromas of pineapple and yellow pear follow through to a crisp, textured palate complemented by characters of citrus. Aging Potential: 5 years and beyond from vintage. Ideal with asian cuisine, poultry or seafood.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/RPA/Rustenberg/Rustenberg-Chenin-Blanc-Bottle-Shot--767x1100.jpg",
+      "price": 49.0,
+      "units_in_stock": 115,
+      "color": 2,
+      "year": 2022,
+      "taste": 1,
+      "alcohol": 12.5,
+      "volume": 750,
+      "country": "IT"
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 71,
+    "fields": {
+      "name": "Chianti Classico 'Gran Selezione'",
+      "description": "Started in 2014, the newest DOCG classification of Chianti Classico known as Gran Selezione was created. These wines are considered a step above the Riserva classification of Chianti Classico wines.\nCarpineto’s Gran Selezione is deep ruby in color, and exudes pronounced aromas of wild berries, interlaced with hints of vanilla and spicy notes. The palate is intense with great structure, texture and harmony, leading to a long and lingering finish. Pairs perfectly with roasted, braised or grilled meats, like a traditional fiorentina T-bone steak.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Wlochy/Carpineto/Carpineto%20Chianti%20Classico%20Gran%20Selezione-767x1100.jpg",
+      "price": 248.0,
+      "units_in_stock": 39,
+      "color": 1,
+      "year": 2020,
+      "taste": 1,
+      "alcohol": 14.0,
+      "volume": 750,
+      "country": "IT"
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 72,
+    "fields": {
+      "name": "Chianti Classico Riserva",
+      "description": "This is just reaching the optimum age for drinking and you’ll find the savoury cherry flavours, good acidity and significant tannins make this a perfect wine with a wide range of foods, from grilled meats to roast lamb.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Wlochy/Carpineto/Carpineto%20Chianti%20Classico%20Riserva%202015-767x1100.jpg",
+      "price": 106.0,
+      "units_in_stock": 54,
+      "color": 1,
+      "country": "IT",
+      "year": 2017,
+      "taste": 1,
+      "alcohol": 14.0,
+      "volume": 750
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 73,
+    "fields": {
+      "name": "Chianti Classico",
+      "description": "Young, fruity and with that characteristic hint of sour cherry which comes with Sangiovese. Bouquet is intense with hints of violets, berries and cherries. Flavour : velvety, well-rounded, full bodied and well balanced. Delicious with meats and pastas, especially those with a creamy sauce.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Wlochy/Carpineto/Chianti%20Classico%20Carpineto-767x1100.png",
+      "price": 68.0,
+      "units_in_stock": 105,
+      "color": 1,
+      "country": "IT",
+      "year": 2021,
+      "taste": 1,
+      "alcohol": 13.5,
+      "volume": 750
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 74,
+    "fields": {
+      "name": "Collio Bianco",
+      "description": "Collio bianco is a wine that arrives from a blend of Friulano, Sauvignon, and Riesling Renano.  This wine was first created in 1989 while Nicola was working on his idea of the Studio di Bianco (Study in White) and is intended to give a snapshot of each vintage. \n This particular blend is used because the natural acidity of the Riesling and Sauvignon plays off the power of the Friulano creating a rich palate of layered flavors.  The barrels that remain after the final Studio di Bianco blend for the vintage has been made are used for the Collio Bianco. This wine generally comes completely from the Ruttars plot but in occasional vintages may include lots of Friulano from Brazzano.\nThis textured, zesty white wine is delicious on its own though extremely food-friendly too-- light enough for vegetables and fish though full enough for chicken and pork.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Wlochy/Borgo%20del%20Tiglio/Collio%20Bianco-767x1100.jpg",
+      "price": 147.0,
+      "units_in_stock": 67,
+      "color": 2,
+      "year": 2019,
+      "taste": 1,
+      "alcohol": 14.0,
+      "volume": 750,
+      "country": "ES"
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 75,
+    "fields": {
+      "name": "Collio Friulano",
+      "description": "Friulano is mainly produced from the plot in Brazzano, near the cellar on the South-West side of the hill. The soil comes from a grey-brown marl and the climate is mild and sheltered from the cold winds blowing from North-East. The higher temperatures are particularly suitable for a wine such as Friulano. The vineyards are significantly old - even over 60 years of age, guarantying superior finesse.\nThe Friulano by Borgo del Tiglio is a white wines which spoeaks about the prestigious Collio terroir. Its floral, fruity and slightly spicy hints come out from an intense and pleasant structure. The typical freshness is combined to good savory and mineral aromas.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Wlochy/Borgo%20del%20Tiglio/friulano-borgo-del-tiglio-2018_32185-767x1100.jpg",
+      "price": 195.0,
+      "units_in_stock": 21,
+      "color": 2,
+      "year": 2017,
+      "taste": 1,
+      "alcohol": 14.0,
+      "volume": 750,
+      "country": "HU"
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 76,
+    "fields": {
+      "name": "Colorea",
+      "description": "Clean, bright and pale greenish color. Fruity aromas of citrus and melon, combined with honeysuckle reminiscences. On the palte is fresh and young with good acidity. Perfect with seafood, fish, rice and pasta.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Hiszpania/Colorea-Verdejo_720x600-767x1100.jpg",
+      "price": 29.0,
+      "units_in_stock": 45,
+      "color": 2,
+      "year": 2022,
+      "taste": 1,
+      "alcohol": 11.5,
+      "volume": 750,
+      "country": "ES"
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 77,
+    "fields": {
+      "name": "Colossal Reserva",
+      "description": "With an intense rubi colour, this wine presents itself with a great concentration in the nose. Extremely rich aroma with predominance of red ripe frutis and some floral notes, well integrated with notes of spices coming from the ageing in French and American aok barrels. In the mouth it shows great complexity with notes of plums and blackberries. The finish is rich and elegant.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Hiszpania/Casa%20Santos%20Lima/colossal-reserva-2014-lisboa-casa-santos-lima-portugalia-619-767x1100.jpg",
+      "price": 39.0,
+      "units_in_stock": 9,
+      "color": 1,
+      "country": "PT",
+      "year": 2019,
+      "taste": 1,
+      "alcohol": 14.0,
+      "volume": 1000
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 78,
+    "fields": {
+      "name": "Colossal Reserva",
+      "description": "This is an extremely refreshing wine, rich in fruity aromas of exotic character and vibrant acidity, combined with pleasant floral notes. It is balanced in the mouth, showing also a great combination of citrus and wood notes has a result of an ageing period in oak barrels. This wine has a great intensity and a minerality typical of the Lisbon region.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Portugalia/Casa%20Santos%20Lima/Colossal%20Reserva%20Branco-767x1100.png",
+      "price": 39.0,
+      "units_in_stock": 74,
+      "color": 2,
+      "year": 2021,
+      "taste": 1,
+      "alcohol": 13.0,
+      "volume": 750,
+      "country": "AR"
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 79,
+    "fields": {
+      "name": "Colossal",
+      "description": "Colossal is defined by something gigantic in place and time. After a fine selection of the best and most noble grapes of this region this wine was produced by traditional vinification methods. Complex and with great structure this Grande Reserva shows pronounced aromas of red and dark ripe fruit. On the palate emerges the spicy and cocoa aromas. The long barrique ageing period gave it extra mellowness and well-balanced tannins. With a long and persistent aftertaste this is a great wine to enjoy in special moments.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Portugalia/Casa%20Santos%20Lima/Colossal%20Grande%20Reserva-767x1100.png",
+      "price": 59.0,
+      "units_in_stock": 41,
+      "color": 1,
+      "year": 2021,
+      "taste": 1,
+      "volume": 750,
+      "country": "AR",
+      "alcohol": 11.0
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 80,
+    "fields": {
+      "name": "Comte de la Perriere - Silex",
+      "description": "Le Comte de la Perrière, with its bright appearance, is a fine, well-balanced, fruity wine with aromas of citrus and gun flint. On entry to the palate, the wine is fat, marked by very mature, supple and sophisticated substance. Perfect with fish from the Loire River, salmon trout, turbot in beurre blanc, sea bream, salmon and Crottin de Chavignol goat cheese.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Francja/Saget-La-Perriere/comte-de-la-perriere-silex-2015-sancerre-dolina-loary-saget-la-perriere-francja-612-767x1100.png",
+      "price": 149.0,
+      "units_in_stock": 107,
+      "color": 2,
+      "country": "FR",
+      "year": 2021,
+      "taste": 1,
+      "alcohol": 12.5,
+      "volume": 750
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 81,
+    "fields": {
+      "name": "Condrieu",
+      "description": "A bold, exciting Viognier with complex fruit, a little nuttiness and a nice toasted oak background. Robert Parker’s Wine Advocate gives it a score of 94.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Francja/MS-Ogier/Condrieu%20la%20combe%20de%20malleval-767x1100.jpg",
+      "price": 268.0,
+      "units_in_stock": 71,
+      "color": 2,
+      "country": "FR",
+      "year": 2020,
+      "taste": 1,
+      "alcohol": 14.0,
+      "volume": 750
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 82,
+    "fields": {
+      "name": "Contrada Montalto",
+      "description": "Ageing: malolactic fermentation and aging in French oak barriques for 9 months\nColour: straw yellow with golden hues\nNose: graceful, with summer floral notes\nFlavour: immediately pleasant, flavorful, with a nice acidity to balance it out\nFood matches: light pasta dishes, fish, white meats",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Sycylia/Montalto-767x1100.jpg",
+      "price": 198.0,
+      "units_in_stock": 70,
+      "color": 2,
+      "year": 2019,
+      "taste": 1,
+      "alcohol": 13.0,
+      "volume": 750,
+      "country": "HU"
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 83,
+    "fields": {
+      "name": "Crianza",
+      "description": "Deep ruby red with bluish highlights            \nNose : Notes of red and black fruits intertwined with light notes of toast from its time spent in oak barrels.\nPalate : Fresh and juicy, light on the palate but with a full-flavoured finish.\nAgeing in barrel: at least 12 months. Ageing in bottle: between 6 and 10 months.\nPairs perfectly with Valencian cuisine, Castilian roasts or Asian food, ideal for red meats, stews, pulses and all kinds of mature cheeses.\n \nJames Suckling – 90 pts\n\"Some berry and chocolate with a medium body, round and lightly chewy tannins and fruity finish with chocolate and hazelnut in the aftertaste. Drink now.\"",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Hiszpania/Bodegas%20Palacio/Vina%20Mayor%20Crianza%20JS-767x1100.jpg",
+      "price": 74.0,
+      "units_in_stock": 95,
+      "color": 1,
+      "year": 2019,
+      "taste": 1,
+      "volume": 750,
+      "country": "PL",
+      "alcohol": 10.0
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 84,
+    "fields": {
+      "name": "Crianza",
+      "description": "Aged in French and American oak for 12 months this has a lovely ruby red colour, firm grip and good long finish. The nose is clean with balsamic notes, spices. The palate starts soft, it is velvety in the mouth and has body with notes of raspberries and cherries. It is ideal to pair with meats - red meat, poultry, small game, oily fish, semi-cured chesses.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Hiszpania/Luis%20Canas/Crianza%20Luis%20Canas-767x1100.jpg",
+      "price": 64.0,
+      "units_in_stock": 1,
+      "color": 1,
+      "country": "ES",
+      "year": 2020,
+      "taste": 1,
+      "alcohol": 14.0,
+      "volume": 750
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 85,
+    "fields": {
+      "name": "Crianza",
+      "description": "Complex and elegant on the nose, with toasted aromas. Fresh, with an intense, spicy and balanced final finish. Suitable for all types of meats, vegetables, cheeses and pate.\n91 points James Suckling",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Hiszpania/Barahonda/Crianza%20Barahonda-767x1100.png",
+      "price": 55.0,
+      "units_in_stock": 104,
+      "color": 1,
+      "year": 2020,
+      "taste": 1,
+      "alcohol": 14.5,
+      "volume": 750,
+      "country": "PL"
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 86,
+    "fields": {
+      "name": "Crossfire",
+      "description": "Cabernet Sauvignon from a vineyard near Oakville in the heart of Napa Valley. Just 500 cases made. Rich and voluptuous. Parker score: 94/100.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Kalifornia/crossfire-2008-stevie-ray-vaughan-napa-valley-worlds-end-kalifornia-308-767x1100.jpg",
+      "price": 590.0,
+      "units_in_stock": 78,
+      "color": 1,
+      "country": "US",
+      "year": 2014,
+      "taste": 1,
+      "alcohol": 14.0,
+      "volume": 750
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 87,
+    "fields": {
+      "name": "Côte-Rôtie",
+      "description": "The Côte-Rôtie Mon Village is one heck of an entry level wine. Medium to full-bodied, silky and polished, it has classic Côte-Rôtie elegance and sexinessas well as notes of black raspberries, hints of cassis, spices and dried flowers.\nA great wine for laying down, it is also appreciated in its youth! Drink it anytime over the coming decade.\nWe recommend this wine, of course, with red meat but we also recommend it with a nice poultry. A poultry supreme with cream and let's be crazy even better, a nice capon with morels!\nDISTINCTIONS\n93 Pts by Jeb Dunnuck 2022.\n93 Pts by the Wine Spectator 2021.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Francja/MS-Ogier/Stephane%20Ogier%20Mon%20Village-767x1100.jpg",
+      "price": 338.0,
+      "units_in_stock": 40,
+      "color": 1,
+      "year": 2020,
+      "taste": 1,
+      "alcohol": 13.5,
+      "volume": 750,
+      "country": "ES"
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 88,
+    "fields": {
+      "name": "Derringstone",
+      "description": "Simpsons’ Wine Estate is seeking to challenge the perception of English still wines both nationally and internationally, with the belief in creating wines of great provenance and presence.\nThis intriguing and truly unique still ‘blanc de noirs’ is created from exclusively estate grown Pinot Meunier grapes, hand-picked from vineyards situated on the iconic, chalk slopes of the North Downs of Kent.\nCarefully vinified as a white wine, the Derringstone Pinot Meunier is a luxuriously textured, gastronomic wine with truly distinctive flavours and mouthfeel.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Wielka%20Brytania/Simpsons%20Derringstone-767x1100.jpg",
+      "price": 129.0,
+      "units_in_stock": 45,
+      "volume": 750,
+      "country": "AR",
+      "color": 2,
+      "taste": 2,
+      "year": 2006,
+      "alcohol": 15.0
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 89,
+    "fields": {
+      "name": "Dogajolo Bianco",
+      "description": "White ‘Super-Tuscan’ produced from estate grown vineyards planted after a careful study aimed at identifying the best environment for the production of this wine. The hillside, dry-farmed vineyards are located within the Chianciano and Montepulciano (Siena) property.\nA lovely blend of Chardonnay Grechetto and Sauvignon Blanc. This is engagingly aromatic with a lovely balance between the fruit and acidity. Bouquet: pleasantly fruity, elegantly aromatic, and harmonious. Flavor: medium body with agreeable acidity and a dry, pleasantly velvety, soft finish.\nExcellent as an aperitif or with typical Mediterranean cuisine, such as salads, pasta, seafood and white meats. Excellent also with flavorful, spicy Asian foods.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Wlochy/Carpineto/dogajolo-bianco-igt-2015-carpineto-wlochy-246-767x1100.jpg",
+      "price": 57.0,
+      "units_in_stock": 122,
+      "color": 2,
+      "country": "IT",
+      "year": 2022,
+      "taste": 1,
+      "alcohol": 12.5,
+      "volume": 750
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 90,
+    "fields": {
+      "name": "Dogajolo Rosso",
+      "description": "One of the best-value Super Tuscans you’ll find anywhere. This is a very innovative product, a young \"Super-Tuscan\", whose characteristics are never found together in the same wine. Made from Sangiovese and Cabernet Sauvignon and aged in French oak. Dogajolo combines the power and deep colors of a young wine, the elegance and balance given by wood aging, as well as a fruity and fragrant bouquet, with hints of cherry, coffee, vanilla and spice. Flavor: full, soft on the palate, complex, well developed.\nDogajolo can be paired with first courses and white meats, but shows at its best with full-flavored dishes such as roasts, grilled meats, cold cuts and Tuscan regional specialty.\nDogajolo, incidentally, means to jump from the staves of a barrel.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Wlochy/Carpineto/dogajolo-rosso-igt-2015-carpineto-wlochy-263-767x1100.jpg",
+      "price": 57.0,
+      "units_in_stock": 37,
+      "color": 1,
+      "country": "IT",
+      "year": 2021,
+      "taste": 1,
+      "alcohol": 13.5,
+      "volume": 750
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 91,
+    "fields": {
+      "name": "Dolcetto",
+      "description": "Wine produced in the areas of Monforte d’Alba, Barolo and Novello, where the soil is malleable, rich in clay and difficult to work. Instead of barrel-ageing, fermentation takes place in steel tanks, and the wine is transferred several times before being bottled. Very intense purple ​​red colour; red fruits on the nose; pleasant and smooth in the mouth. Excellent with pasta dishes, white meats and fresh cheeses.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Wlochy/Franco%20Conterno/Franco%20Conterno%20Dolcetto-767x1100.jpg",
+      "price": 59.0,
+      "units_in_stock": 77,
+      "color": 1,
+      "country": "IT",
+      "year": 2022,
+      "taste": 1,
+      "alcohol": 13.0,
+      "volume": 750
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 92,
+    "fields": {
+      "name": "Douro",
+      "description": "Made from several different indigenous grape varieties from a traditional Douro vineyard planted haphazardly with different varietes. This dry, full-bodied and fruity red displays a complex and medium nose. On the palate, its refreshing acidity, fleshy tannins, and broad texture precede a medium finish. Drink now or keep 6 years following the vintage.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Portugalia/Quinta%20do%20Infantado/douro-2012-quinta-do-infantado-portugalia-336-767x1100.jpg",
+      "price": 94.0,
+      "units_in_stock": 81,
+      "color": 1,
+      "country": "PT",
+      "year": 2019,
+      "taste": 1,
+      "volume": 750,
+      "alcohol": 15.0
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 93,
+    "fields": {
+      "name": "Douro",
+      "description": "This Douro red Reserve was made from grapes grown exclusively at the estate, in famous Gontelho, a unique terroir. Aroma :Blackberry, cinnamon, plum, cigar, chocolate, blueberry. Heavier body, nice fruit, balanced acidity, medium low tannins on a medium long finish. Fermented in lagar, as tradition in Quinta do Infantado since 1816, when it was established. Aged in tank and 24 months in french oak barrels. 2670 bottles and 180 magnum, all numbered, were estate  bottles, unfiltered.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Portugalia/Quinta%20do%20Infantado/Douro%20Reserva%202012-767x1100.jpg",
+      "price": 164.0,
+      "units_in_stock": 97,
+      "color": 1,
+      "year": 2016,
+      "taste": 1,
+      "volume": 750,
+      "country": "AR",
+      "alcohol": 11.0
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 94,
+    "fields": {
+      "name": "Eastside Shiraz",
+      "description": "Ripe plum and black cherry fruit with hints of mocha, graphite and some spicy notes as well. Medium bodied with the ripe, dark fruits to the fore with balanced acidity and savoury tannins giving length and structure to the wine.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Australia/eastside-shiraz-2014-clare-valley-pikes-australia-435-767x1100.jpg",
+      "price": 89.0,
+      "units_in_stock": 18,
+      "color": 1,
+      "country": "AU",
+      "year": 2021,
+      "taste": 1,
+      "alcohol": 14.0,
+      "volume": 750
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 95,
+    "fields": {
+      "name": "El Arenal",
+      "description": "This extreme altitude single vineyard wine is a tribute to all those who dare to take the adventurous path, and do what has never been done before.This is what Donald and Ursula Hess did when they planted El Arenal, their first vineyard, at an incredible 2600 meters above sea level in the Upper Calchaqui Valley. Its name literally means sand, which is true to its rugged terroir, where grapes are stressed by intense sun and by cool nights.\nSustainably farmed grapes and the magic of El Arenal produce an incredibly sophisticated tannin structure, and result in a supreme balance of fruit, freshness, power, complexity and elegance that only this extreme altitude has to offer.\nVery deep color, almost black, with purple rerfections. Elegant and complex nose: black fruit (blackberry, cherry), spicy (white pepper) and floral (violet) and mineral notes. Well integrated toasting of the barrels. On the palate it is very fruity, vibrant and concentrated, with good structure and firm tannins. Ageing: 12 months in French Oak Barrels, 6 months in bottle.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Argentyna/Colome%20El%20Arenal%20Malbec%202-767x1100.png",
+      "price": 178.0,
+      "units_in_stock": 68,
+      "color": 1,
+      "year": 2019,
+      "taste": 1,
+      "alcohol": 14.5,
+      "volume": 750,
+      "country": "HU"
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 96,
+    "fields": {
+      "name": "El Bicho Raro",
+      "description": "Bicho raro: this said of a rare person or with unusual habits. In Barahonda we make wines mainly with Monastrell variety. Here is our Bicho Raro, made with Tintorera (70%), Syrah (20%) and where Monastrell (10%) is the minority variety. But who doesn’t have some Bicho Raro?\nJuicy and intense in the mouth, it shows subtle notes of aging and spices on a background of red fruit, robust but friendly, with a good body, harmonious, complex and unique. 12 months in french and american barrels. Optimum consumption temperature 15º / 18ºC. Ideal wine for barbecues and tapas.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Hiszpania/Barahonda/Barahonda%20El%20Bicho%20Raro-767x1100.png",
+      "price": 79.0,
+      "units_in_stock": 108,
+      "color": 1,
+      "year": 2020,
+      "taste": 1,
+      "alcohol": 15.0,
+      "volume": 750,
+      "country": "ES"
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 97,
+    "fields": {
+      "name": "El Secreto",
+      "description": "Intense red colour.\nNose : A complex, perfumed wine with notes of black and red fruit, combined with hints of resinous oils, light spices and violets.\nPalate : On the palate it is rounded, juicy and fresh. A long, fleshy, mineral finish. Perfectly balanced with noticeable elegance.\nAgeing : Aged and bottled on the property. Ageing in French oak during 12 months with at least 10 months in bottle. This careful ageing bestows the wine with a greater complexity and personality, and great intensity of fruit.\nFood pairings : A complex yet approachable wine with infinite nuances, it is perfect for discovering and enjoying with numerous dishes from \"mar y montaña\" rice dishes, risottos, pasta, pulses, stews, roasts, meat, cheeses to fusion cuisine.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Hiszpania/Bodegas%20Palacio/El%20Secreto%20Vina%20Mayor-767x1100.jpg",
+      "price": 124.0,
+      "units_in_stock": 62,
+      "color": 1,
+      "year": 2019,
+      "taste": 1,
+      "volume": 750,
+      "country": "HU",
+      "alcohol": 15.0
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 98,
+    "fields": {
+      "name": "Escapada",
+      "description": "An exciting and refreshing wine that perfectly takes advantage of the characteristics of four of the most famous grape varieties of the region. A very light and young wine with a crispy and aromatic profile. Ideal as an aperitif or to pair with any type of fish, seafood and salads.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Portugalia/Casa%20Santos%20Lima/CSL%20Escapada-767x1100.png",
+      "price": 32.0,
+      "units_in_stock": 67,
+      "color": 2,
+      "year": 2022,
+      "taste": 1,
+      "alcohol": 11.5,
+      "volume": 750,
+      "country": "HU"
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 99,
+    "fields": {
+      "name": "Etna Bianco",
+      "description": "Colour: pale yellowNose: definitely floral, reminiscent of linden bloomsFlavour: fresh and salty, mineral essenceFood matches: light pasta dishes, fish, white meats",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Sycylia/Etna%20Bianco-767x1100.jpg",
+      "price": 118.0,
+      "units_in_stock": 69,
+      "color": 2,
+      "year": 2022,
+      "taste": 1,
+      "alcohol": 12.5,
+      "volume": 750,
+      "country": "IT"
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 100,
+    "fields": {
+      "name": "Etna Rosso",
+      "description": "Made from very fine Nerello Mascalese and Nerello Cappuccio from low yielding vineyards (35 Hl. Per hectar). Fresh, fragrant, beautifully slender and with a fine grip, it has a natural polish, a stage presence, as it were. And, in aging, as its weave gathers into rich complexity, it is a wine for gentlemen. It is an aristocratically liberal wine: enjoy it with whatever food you wish, as long as its properly cooked.\nNose: ripe fruits and sweet spices\nFlavour: fresh, fine balanced and rich, very elegant\nFood matches: pasta dishes, meat dishes, fresh cheeses",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Sycylia/Etna%20Rosso-767x1100.jpg",
+      "price": 116.0,
+      "units_in_stock": 71,
+      "color": 1,
+      "year": 2019,
+      "taste": 1,
+      "alcohol": 14.0,
+      "volume": 750,
+      "country": "HU"
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 101,
+    "fields": {
+      "name": "Farnito",
+      "description": "This Super Tuscan has a great nose of cherries and raspberries and a good balance of tannin and fruit on the palate. It is just starting to drink well so you can keep it for several more years if you wish. It will go very nicely with lamb, grilled pork and a juicy steak.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Wlochy/Carpineto/farnito-cabernet-sauvignon-igt-2010-2011-carpineto-wlochy-266-767x1100.jpg",
+      "price": 117.0,
+      "units_in_stock": 91,
+      "color": 1,
+      "country": "IT",
+      "year": 2018,
+      "taste": 1,
+      "alcohol": 13.5,
+      "volume": 750
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 102,
+    "fields": {
+      "name": "Farnito",
+      "description": "A white Super Tuscan which reflects both the region and the grape and which is a lovely wine for sipping on its own as an aperitif or with a range of food, from grilled chicken to seared tuna fish.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Wlochy/Carpineto/farnito-chardonnay-igt-2015-carpineto-wlochy-259-767x1100.jpg",
+      "price": 87.0,
+      "units_in_stock": 50,
+      "color": 2,
+      "country": "IT",
+      "year": 2021,
+      "taste": 1,
+      "alcohol": 13.0,
+      "volume": 750
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 103,
+    "fields": {
+      "name": "Five Hills",
+      "description": "Leather, blackberry, medjool date and doris plum aromatics bounce from the glass. Rosemary flowers also subtly there, along with savoury, toasty spices from the oak. The palate has solid tannin structure and beautiful shape, which will integrate and soften with time ageing in bottle. There are blackcurrant, savoury smoky roast meat, coffee and chocolate flavours on the palate, with a mineral texture that is reminiscent of clay pots hot from the kiln, and volcanic rock. The natural acidity of the Malbec and our place, provides direction and length. All are attributes that secure us in the knowledge that this wine is built to age.\nThis wine will reward cellaring for 15+ years, or will be thoroughly enjoyable upon release for a more robust experience!\nAwards :\n92 points, James Suckling",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Nowa-Zelandia/Cable%20Bay/Cable%20Bay%20Five%20Hills%20Merlot%20Malbec-767x1100.png",
+      "price": 147.0,
+      "units_in_stock": 80,
+      "color": 1,
+      "year": 2019,
+      "taste": 1,
+      "alcohol": 13.0,
+      "volume": 750,
+      "country": "IT"
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 104,
+    "fields": {
+      "name": "Florals",
+      "description": "ale straw in colour, our Chardonnay has aromas of ripe stone- fruit with subtle citrus char-acters. The palate is rich and balanced with generous layered flavours of stone- fruit, melon and citrus, that gives the wine a lovely mouthfeel and length.\nThis Chardonnay is a perfect accompaniment to chicken and creamy pasta dishes. Great for after a hard days work drink or enjoy with your nightly meal.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Nowa-Zelandia/Motueka/Florals%20Chardonnay%202020-767x1100.jpg",
+      "price": 65.0,
+      "units_in_stock": 123,
+      "color": 2,
+      "year": 2020,
+      "taste": 1,
+      "alcohol": 13.5,
+      "volume": 750,
+      "country": "HU"
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 105,
+    "fields": {
+      "name": "Frank Potts",
+      "description": "Lovely red berry and darker fruit aromas, notably blackcurrant, plum and lifted violets with a touch of black olives. These characters continue onto the palate supported by layers of nutmeg, cinnamon and spice oak flavours, with a hint of vanilla. Elegant, rich and velvety smooth. Balanced, finely structured and perfumed, this wine shows considerable length and structure & will benefit from cellaring for 10 to 20 years. Bottled without filtration, decanting 2 hour’s prior to consumption is recommended. Named after the founder of Bleasdale.\nSilver Medal – National Wine Show of Australia 2019\n95 points – Halliday Wine Companion",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Australia/Bleasdale%20nowe/Bleasdale%20Frank%20Potts%202017-767x1100.jpg",
+      "price": 105.0,
+      "units_in_stock": 29,
+      "color": 1,
+      "country": "AU",
+      "year": 2018,
+      "taste": 1,
+      "alcohol": 14.0,
+      "volume": 750
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 106,
+    "fields": {
+      "name": "Gabbiano Bianco",
+      "description": "Aromatic and fruity with notes of ripe peaches and other stone fruits. A great summer wine on its own or paired with fish, chicken and salads.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Wlochy/Teanum/Gabbiano%20Bianco-767x1100.jpg",
+      "price": 36.0,
+      "units_in_stock": 23,
+      "color": 2,
+      "year": 2022,
+      "taste": 1,
+      "alcohol": 12.5,
+      "volume": 750,
+      "country": "IT"
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 107,
+    "fields": {
+      "name": "Gabbiano Rosso",
+      "description": "Medium bodied, full of cherry and raspberry notes on the nose and palate and soft, easy finish. The kind of wine that slips down easily on the terrace when the sun is shining and there's something sizzling on the barbeque.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Wlochy/Teanum/Gabbiano%20Rosso-767x1100.jpg",
+      "price": 36.0,
+      "units_in_stock": 38,
+      "color": 1,
+      "year": 2021,
+      "taste": 1,
+      "alcohol": 13.0,
+      "volume": 750,
+      "country": "IT"
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 108,
+    "fields": {
+      "name": "Gamay Noir",
+      "description": "A cherry bon-bon on the nose, Estate Vineyards Gamay Noir entices with fresh raspberry, juicy strawberry and sweet, red, toffee-apple. Cherry-red with a vibrant purple edge, gamay’s soft tannins give the palate moreish balance and weight. Flecks of aniseed and baking spices run through to the long finish. Delicious with depth, sippable with substance, Estate Vineyards Gamay Noir has character and charm, as well as oodles of red fruit freshness and immediate appeal.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Nowa-Zelandia/Te%20Mata%20Estate/zestaw-mieszany-6-butelek-czerwone-wina-na-lato-darmowa-dostawa-zestawy-a4440-767x1100.jpg",
+      "price": 82.0,
+      "units_in_stock": 92,
+      "color": 1,
+      "country": "NZ",
+      "year": 2022,
+      "taste": 1,
+      "alcohol": 12.0,
+      "volume": 750
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 109,
+    "fields": {
+      "name": "Generations",
+      "description": "Our Generations Wines celebrate multiple generations of family involvement and grower relationships. Bleasdale has been producing Malbec table wine since 1961 and has multi generational expertise with this tricky variety. Individual vineyard blocks are picked and crushed separately before maturation and blending. \nThis wine is dark purple with intense aromas of violets, blackberries, plums and clove spice. Drinking well now, but with the potential to be a long term cellaring prospect if desired. It is normal for some sediment to form. Decanting one hour before drinking is recommended. Perfect with lamb on the spit or beef ragout.\nAwards : \n97 Points James Halliday\nTrophy – Best Red Variety  Winewise Championship 2023\nGold - Winewise Championship 2023\nGold - Langhorne Creek Wine Show 2023\nGold - Melbourne Royal Wine Awards 2022\nGold - Royal Adelaide Wine Show 2022\nGold - Royal Hobart Wine Show 2022\nGold - Perth Royal Wine Awards 2022",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Australia/Bleasdale%20nowe/bleasdale%20generations%20malbec%202021-767x1100.png",
+      "price": 105.0,
+      "units_in_stock": 14,
+      "color": 1,
+      "country": "AU",
+      "year": 2019,
+      "taste": 1,
+      "alcohol": 14.0,
+      "volume": 750
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 110,
+    "fields": {
+      "name": "Generations",
+      "description": "Our Generations Wines celebrate multiple generations of family involvement and grower relationships. Shiraz was the first red grape variety planted in Langhorne Creek at Bleasdale in 1858 and continues to thrive today. Individual vineyard blocks are picked and crushed separately before maturation and blending. Flavours of ripe plums and other dark berries are layered with liquorice, pepper and fresh spices, these marry beautifully with subtle oak nuances giving a complex wine balanced by smooth round tannins.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Australia/Bleasdale%20Generations%20Shiraz-767x1100.jpg",
+      "price": 125.0,
+      "units_in_stock": 49,
+      "color": 1,
+      "country": "AU",
+      "year": 2018,
+      "taste": 1,
+      "alcohol": 14.0,
+      "volume": 750
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 111,
+    "fields": {
+      "name": "Gewurztraminer",
+      "description": "Wonderfully aromatic with an appealing spiciness on the palate, this is a classic match with Asian and other spicy foods.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Nowa-Zelandia/Soljans%20Estate/Soljans%20Gewurztraminer-767x1100.jpg",
+      "price": 69.0,
+      "units_in_stock": 98,
+      "color": 2,
+      "country": "NZ",
+      "year": 2021,
+      "taste": 6,
+      "alcohol": 11.5,
+      "volume": 750
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 112,
+    "fields": {
+      "name": "Gewurztraminer",
+      "description": "Fresh acidity and an aroma reminiscent of rose, cloves and tropical fruit are the chief characteristics of this wine. The palate is concentrated but supported by a nice acidity with a savory finish, dry and determined. Gewürztraminer is recognizable thanks to its pinkish skin and very small fruit. The grapes are harvested by hand and processed with attention. Fermentation and perfection is in large acacia casks, which allow the wine to develop its aromas to the full.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Wlochy/Falkenstein/Falkenstein%20Gewurztraminer-767x1100.jpg",
+      "price": 104.0,
+      "units_in_stock": 35,
+      "color": 2,
+      "year": 2021,
+      "taste": 1,
+      "alcohol": 14.0,
+      "volume": 750,
+      "country": "PL"
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 113,
+    "fields": {
+      "name": "GinBey",
+      "description": "Distilled at Domaine des Tourelles winery in the heart of the Bekaa Valley, GinBey is the fruit of long years of hard work and research by winemaker Faouzi Issa.\nThis blend is a mix of 14 botanicals, from the traditional base of juniper and coriander seeds to other ingredients like citrus, florals and spices all sourced from Lebanon.\nPart of the botanicals are steeped 24 hours before distillation in 400-liter copper stills then the final spirit is rested in traditional clay jars giving it remarkable finesse and roundness.\nA taste of the Med, with notes of juniper, corriander seeds and citrus peels. Serve over ice with a sprig of rosemary or a twist of sweet orange.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Lebanon/Gin%20Liban-767x1100.png",
+      "price": 125.0,
+      "units_in_stock": 99,
+      "color": 9,
+      "year": 1974,
+      "alcohol": 40.0,
+      "volume": 700,
+      "country": "AR",
+      "taste": 4
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 114,
+    "fields": {
+      "name": "Giravolta",
+      "description": "Medium ruby red. Sweet and spicy aromas of raspberry, milk chocolate, red cherry and violet. Complex and sweet, with very soft tannins, high but harmonious acidity and beautiful generosity and elegance to the red cherry, savoury and floral flavours. A deep, sweet, rich wine with supple tannins that are wonderfully harmonious after brief aeration.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Wlochy/Accademia%20dei%20Racemi/Felline%20Giravolta%203-767x1100.png",
+      "price": 84.0,
+      "units_in_stock": 77,
+      "color": 1,
+      "year": 2018,
+      "taste": 1,
+      "alcohol": 14.5,
+      "volume": 750,
+      "country": "HU"
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 115,
+    "fields": {
+      "name": "Good Times",
+      "description": "Cabernet Sauvignon from one of the best vineyards in Napa Valley. Just 350 cases made. Robert Parker’s newsletter scores it at 95/100 and says it “offers a big dose of elegance on a full-bodied frame.” You’ll find it rich and well structured.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Kalifornia/good-times-bad-times-2009-2010-led-zeppelin-napa-valley-worlds-end-kalifornia-307-767x1100.jpg",
+      "price": 782.0,
+      "units_in_stock": 53,
+      "color": 1,
+      "country": "US",
+      "year": 2014,
+      "taste": 1,
+      "alcohol": 14.5,
+      "volume": 750
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 116,
+    "fields": {
+      "name": "Gran Reserva",
+      "description": "Deep ruby red colour.\nNose : Intense aromas of ripe red fruits, maraschino cherries, dried fruit and cocoa.\nPalate : Rounded, juicy, long and complex. Good length.\nFood pairings : A complex, mature wine that is perfect with red meats, large game stews, Castilian-style roasts and all kinds of mature cheeses. Ideal for serving with pulses, meat-based rice and mushroom dishes.\nAgeing : 24 months in high quality French oak Bordeaux barrels (225 litre capacity) and 36 months minimum in bottle",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Hiszpania/Bodegas%20Palacio/vinamayorgranreserva_sa-767x1100.png",
+      "price": 166.0,
+      "units_in_stock": 46,
+      "color": 1,
+      "year": 2014,
+      "taste": 1,
+      "volume": 750,
+      "country": "PL",
+      "alcohol": 7.0
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 117,
+    "fields": {
+      "name": "Gran Reserva",
+      "description": "Suitable for those seeking the essence of a classic Rioja. Elegant and complex nose - aromas of tobacco, leather, thyme and rosemary. The palate is rounded, balanced and warm. Hints of fruit in liqueur and marmalade notes. Ripe fruit combine with interwoven oak to give touches of spice, cherries and a hint of licorice. A beautifully elegant, lasting finish. Aged in new French and American oak for two years this is a handsome, dignified wine that you’ll be pleased to serve on special occasions. Perfect enjoyed on its own or with steak, casseroles and cheese.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Hiszpania/gran-reserva-2010-rioja-luis-canas-wina-99-767x1100.jpg",
+      "price": 149.0,
+      "units_in_stock": 88,
+      "color": 1,
+      "country": "ES",
+      "year": 2016,
+      "taste": 1,
+      "alcohol": 14.0,
+      "volume": 750
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 118,
+    "fields": {
+      "name": "Gran Tiati",
+      "description": "Deep dark red colour, presents a complex bouquet of balsamic aromas, vanilla, chocolate and marmalade of blackberries and blueberries. Full bodied, rich and soft tannins and intense aftertaste permits a long ageing to this wine.  To enjoy it better, decant this wine an hour before drinking. It is savoured with game, grilled or roasted red meat.\nAwards :\n4 stars + crown - Vini buoni d’italia, Touring Club Italiano",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Wlochy/Teanum/gran-tiati-gold-vintage-2012-cantine-teanum-wlochy-292-767x1100.jpg",
+      "price": 115.0,
+      "units_in_stock": 114,
+      "color": 1,
+      "country": "IT",
+      "year": 2017,
+      "taste": 1,
+      "alcohol": 14.0,
+      "volume": 750
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 119,
+    "fields": {
+      "name": "Gran Tiati",
+      "description": "A blend of Aglianico, Montepulciano and Syrah which has been aged in American and French oak for 12 months. Deep dark red colour. Reveals complex aromas of ripe red fruits, caramel, vanilla, cedar and chocolate. Full bodied structure and velvety textured tannins are followed by long aftertaste of roasted almonds and coffee. To enjoy it better, decant this wine an hour before drinking. An ideal companion for grilled red meat. Will age very nicely for 5-10 years but worth trying now too.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Wlochy/Teanum/gran-tiati-2011-2012-cantine-teanum-wlochy-256-767x1100.jpg",
+      "price": 87.0,
+      "units_in_stock": 33,
+      "color": 1,
+      "country": "IT",
+      "year": 2014,
+      "taste": 1,
+      "alcohol": 14.0,
+      "volume": 750
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 120,
+    "fields": {
+      "name": "Grand Cru Classe",
+      "description": "The wine has a deep colour and an aromatic nose; it is rich and unctuous on the palate, perfectly enveloped in silky tannins. This vintage is distinguished by a beautiful balance of power, freshness and elegance.\n „Aromas of currants, blackberries and blackcurrants with hints of chocolate and spices. Full body, firm and silky tannins and a long and flavorful finish. Juicy and muscular wine. Needs three or four years to open. Beautiful.” 96 points James Suckling\nThis has beguiling hints of plum cake and melted licorice peeking out, while a core of cassis and blackberry confiture waits in reserve. There's ample grip, but this remains very polished and integrated, with lovely echoes of anise and fruitcake showing through the very lengthy finish. Will be hard to keep your hands off this while it ages. Best from 2019 through 2035.  94 points Wine Spectator",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Francja/CHATEAU_LYNCH-BAGES_Pauillac_2014-767x1100.png",
+      "price": 1180.0,
+      "units_in_stock": 32,
+      "color": 1,
+      "year": 2014,
+      "taste": 1,
+      "alcohol": 13.0,
+      "volume": 750,
+      "country": "ES"
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 121,
+    "fields": {
+      "name": "Granja Amareleja Premium",
+      "description": "Element not found",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Portugalia/Encostas/Granja%20Amarelaja%20Premium-767x1100.jpg",
+      "price": 56.0,
+      "units_in_stock": 41,
+      "color": 1,
+      "year": 2021,
+      "taste": 1,
+      "alcohol": 14.0,
+      "volume": 750,
+      "country": "IT"
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 122,
+    "fields": {
+      "name": "Granja Amareleja",
+      "description": "Moreto is the grape variety on the left bank of the Guadiana, where it continues to be cultivated, mainly non-grafted (free-foot). Perhaps for this reason, the wines are so aromatic, balanced and sensitive. In the last harvest it was considered the best wine of the Cooperativa da Granja-Amareleja, a wine that has been bottled separately to honour the caste and ancestral practices maintained in the region.\nThis violet-coloured wine presents itself with red fruit aromas. In the mouth it is assumed to be balanced and well rounded.Ageing : 8 months aging in oak casks.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Portugalia/Encostas/GA%20Aleixos-767x1100.jpg",
+      "price": 87.0,
+      "units_in_stock": 36,
+      "color": 1,
+      "year": 2021,
+      "taste": 1,
+      "alcohol": 14.0,
+      "volume": 750,
+      "country": "ES"
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 123,
+    "fields": {
+      "name": "Grenache",
+      "description": "Being typically light in colour, low in tannin and medium-bodied, Grenache is the ideal red wine to drink on its own or to pair with tapas style foods and cured meats. In its youth the wine exhibits very attractive red fruit flavours, such as strawberry and cherry, along with a wonderful pepper spice. As the wine ages it will reveal a more savoury fruit profile.\nAging Potential : Up to 6 years from vintage under ideal cellaring conditions.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/RPA/Rustenberg/Rustenberg%20Grenache-767x1100.png",
+      "price": 69.0,
+      "units_in_stock": 108,
+      "color": 1,
+      "year": 2019,
+      "taste": 1,
+      "alcohol": 14.0,
+      "volume": 750,
+      "country": "AR"
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 124,
+    "fields": {
+      "name": "Gruner Veltliner",
+      "description": "Bright golden yellow colour. Intense peppery Veltliner nose, harmonious fruitiness, easily with refreshing acidity on the palate.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Austria/Austria%20Gruner%20Veltliner-767x1100.jpg",
+      "price": 52.0,
+      "units_in_stock": 28,
+      "color": 2,
+      "country": "AT",
+      "year": 2022,
+      "taste": 1,
+      "volume": 750,
+      "alcohol": 9.0
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 125,
+    "fields": {
+      "name": "Gruner Veltliner",
+      "description": "Refreshing Lemon aromas infuse delicate white peaches with a soft vanilla touch. A vibrant wine bursting with lemon and white peaches with a delicate coating of vanilla and a tingly white pepper bite. It provides a nice dry backbone yet is layered and creamy with soft acidity and nutty nuances. It is bright and fresh with great richness and texture from the wild ferment and provides a particularly long, harmonious finish.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Nowa-Zelandia/Jules%20Taylor/Jules%20Taylor%20Gruner%20Veltliner%202021-767x1100.png",
+      "price": 89.0,
+      "units_in_stock": 96,
+      "color": 2,
+      "country": "NZ",
+      "year": 2022,
+      "taste": 1,
+      "alcohol": 13.0,
+      "volume": 750
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 126,
+    "fields": {
+      "name": "Hannibal",
+      "description": "This wine is made to honour Hannibal the military commander of Carthage, considered to be one of the grastest generals of antiquity.\nThe excitement of the Hannibal blend lies in the indulgence of pitching French and Italian grape varieties together. Arguably the world’s best varieties with Sangiovese established as the principle cultivar (52%) in this mix. My best description of Hannibal 2011 is that it is the kind of wine which one pulls the cork on while cooking only to discover the bottle is empty before sitting down to dinner. It is perfectly elegant with sufficient “leather” in its taste profile – a reminder of its Italian links. All Barrel matured for sixteen months after fermenting the different grapes separately. This vintage comprises Sangiovese 42%, Nebbiolo 17%, Pinot Noir 15%, Shiraz 12%, Mouvedre 7% and Barbera 7%. These grapes ripened well to produce friendly wild berry flavours with opulent, gentle tannins providing long and harmonious finish! Enjoy now or cellar to perfection.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/RPA/Bouchard%20Finlayson/Bouchard%20Finlason%20Hannibal-767x1100.png",
+      "price": 168.0,
+      "units_in_stock": 116,
+      "color": 1,
+      "country": "ZA",
+      "year": 2018,
+      "taste": 1,
+      "alcohol": 14.0,
+      "volume": 750
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 127,
+    "fields": {
+      "name": "Heideboden Zweigelt",
+      "description": "Blackish ruby, fine blend of cherry and sour cherry, very fruity and complex on the nose, full tannins, long lasting and powerful on the palate and finish.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Austria/Heideboden%20Zweigelt-767x1100.png",
+      "price": 69.0,
+      "units_in_stock": 34,
+      "color": 1,
+      "year": 2022,
+      "taste": 1,
+      "alcohol": 13.5,
+      "volume": 750,
+      "country": "PL"
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 128,
+    "fields": {
+      "name": "Hiru 3 Racimos",
+      "description": "A collector’s wine that the winery has long since sold out. What makes it so special is that it is made from grapes handpicked from 60-year-old Tempranillo vines which produce a maximum of three bunches of grapes. This gives it its great depth and finesse and explains why it is an iconic Rioja with a world-wide following.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Hiszpania/hiru-3-racimos-2010-rioja-luis-canas-hiszpania-102-767x1100.jpg",
+      "price": 687.0,
+      "units_in_stock": 98,
+      "color": 1,
+      "country": "ES",
+      "year": 2019,
+      "taste": 1,
+      "volume": 750,
+      "alcohol": 9.0
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 129,
+    "fields": {
+      "name": "If six was nine",
+      "description": "A medium to full-bodied Cabernet made from Napa fruit, you’ll this voluptuous but structured, a marriage if you like of Californian and French winemaking styles. 88/100\nJames Suckling, 94 pointsAromas of berries, stones and light coffee follow through to a medium to full body, integrated tannins and a chocolate, walnut and berry aftertaste. Linear and focused. Nice tension. Better than 2013.\nWine Enthusiast, 91 pointsCedar, graphite and dried herb form a crucible of flavor and complexity in this well-made wine, priced fairly for the quality. Seamless interwoven tannins support a hefty weight of powerful ripeness defined by sultry layers of dark cherry and dark chocolate.\nRobert Parker, 89 pointsA blend of 94% Cabernet Sauvignon and 6% Merlot from Napa, the 2014 Cabernet Sauvignon If Six Was Nine, has a dense ruby/purple color, attractive cassis fruit, medium to full body, good ripeness and richness, and a soft, fleshy finish. Drink it over the next 10-12 years.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Kalifornia/if-six-was-nine-2010-2013-napa-valley-worlds-end-kalifornia-312-767x1100.jpg",
+      "price": 322.0,
+      "units_in_stock": 58,
+      "color": 1,
+      "country": "US",
+      "year": 2014,
+      "taste": 1,
+      "alcohol": 14.5,
+      "volume": 750
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 130,
+    "fields": {
+      "name": "John X Merriman",
+      "description": "This Bordeaux blend typifies Rustenberg terroir. The John X Merriman is a powerful wine that rewards aging. In its youth the wine is worth decanting and expresses cassis, black currant and dark fruits complemented with cigar tobacco and sour cherry notes. As the wine ages and its fine grained tannins soften a softer more savoury palate develops revealing wonderful drinkability and tertiary complexity.\nAging Potential : 10 to 15 years from vintage under ideal cellaring conditions.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/RPA/Rustenberg/Rustenberg%20John%20X-767x1100.jpg",
+      "price": 92.0,
+      "units_in_stock": 27,
+      "color": 1,
+      "country": "ZA",
+      "year": 2020,
+      "taste": 1,
+      "alcohol": 14.0,
+      "volume": 750
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 131,
+    "fields": {
+      "name": "Kadette",
+      "description": "A blend of Pinotage, Cabernet Sauvignon and Merlot in roughly equally proportions, this is distinctively New World but with some Old World finesse and style as well. A deep ruby red colour, with notes of blackcurrant, tea leaves and vanilla spice on the nose, which follows through to the palate. A well balanced structure with fresk acidity and dry appetising finisz. This wines will keep developing in the bottles for the next 7-10 years.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/RPA/Kanonkop/kadette-2014-kanonkop-estate-rep-pld-afryki-159-767x1100.jpg",
+      "price": 66.0,
+      "units_in_stock": 104,
+      "color": 1,
+      "country": "ZA",
+      "year": 2020,
+      "taste": 1,
+      "alcohol": 14.0,
+      "volume": 750
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 132,
+    "fields": {
+      "name": "La Perriere Blanc Fume",
+      "description": "Often imitated, the one and only “Blanc Fumé” draws all of its characteristics from its original terroir in the Center of France, on the banks of the Loire River. More commonly known as “Pouilly Fumé”, the “Blanc Fumé de Pouilly” appellation is the original name of this 100% Sauvignon Blanc wine. Its classification, one of the oldest in France, goes back to 1937. The term “Blanc Fumé” (smoky white) refers to the thin smoke colored layer covering the grapes at the time of harvest, but also to the unique aromas of gunflint famous in the wines of Pouilly sur Loire.\nPale gold hue with bluish crystalline tints. After revealing mineral notes on the nose, the wine opens with a perfect balance of alcohol and acidity on the palate. This Sauvignon Blanc shows a nice taut structure, lovely persistence on the palate with notes that are almost saline. This fresh and inviting white offers attractive lime, green apple and floral notes.\nIdeally pairs with seafood, grilled prawns, pike perch, asparagus, Lyon-style pike quenelles, goat cheese or as an aperitif.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Francja/Saget-La-Perriere/Saget%20la%20Perrier%20Pouilly%20Fume-767x1100.jpg",
+      "price": 99.0,
+      "units_in_stock": 34,
+      "color": 2,
+      "year": 2022,
+      "taste": 1,
+      "alcohol": 13.0,
+      "volume": 750,
+      "country": "HU"
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 133,
+    "fields": {
+      "name": "La Petite Perriere",
+      "description": "Beautiful ruby color mingled with a garnet hue. On the nose, aromas of black fruits such as blackberry and blueberry. The palate is fleshy at point of entry then full, ample and generous, flowing into a crisp cherry-driven finish with an ultra fresh beading sensation. A mouthfilling wine offering up the generosity and typicity of a Pinot Noir that has just hit maturity.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Francja/Saget-La-Perriere/la-petite-perriere-pinot-noir-2015-dolina-loary-saget-la-perriere-francja-615-767x1100.jpg",
+      "price": 49.0,
+      "units_in_stock": 20,
+      "color": 1,
+      "country": "FR",
+      "year": 2022,
+      "taste": 1,
+      "alcohol": 12.5,
+      "volume": 750
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 134,
+    "fields": {
+      "name": "La Petite Perriere",
+      "description": "A brillant Sauvignon with clear green glints. The nose is elegant with harmonious expression of white flowers, elderflower, acacia and a trace of minerality. After a silky attack, the mid-palate shows savory freshness with notes of white peach and lychee fruit.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Francja/Saget-La-Perriere/la-petite-perriere-sauvignon-blanc-2015-dolina-loary-saget-la-perriere-francja-616-767x1100.jpg",
+      "price": 43.0,
+      "units_in_stock": 82,
+      "color": 2,
+      "country": "FR",
+      "year": 2022,
+      "taste": 1,
+      "alcohol": 12.5,
+      "volume": 750
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 135,
+    "fields": {
+      "name": "Langhe Freisa",
+      "description": "Freisa is a lively red wine that is perfect to drink with salami. In the glass comes with a vigorous and lively bubble and offers notes of cherry, raspberry and black spices. The sip is fresh and harmonious, with a finish of beautiful fruity persistence. Excellent served chilled in the summer (5-7°).",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Wlochy/Franco%20Conterno/Franco%20Conterno%20Langhe%20Freisa-767x1100.jpg",
+      "price": 76.0,
+      "units_in_stock": 0,
+      "color": 1,
+      "year": 2022,
+      "taste": 1,
+      "alcohol": 13.5,
+      "volume": 750,
+      "country": "AR"
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 136,
+    "fields": {
+      "name": "Langhe Nascetta",
+      "description": "From vines cultivated in the challenging and malleable clay-rich soils of the comune of Novello, from which the wine takes its name. Aged in steel barrels for 5 months. Vibrant yellow with green undertones; rich aroma with hints of pineapple, orange blossom, exotic fruits, banana and honey. Excellent as an aperitif; excellent with fish and shellfish dishes.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Wlochy/Franco%20Conterno/Franco%20Conterno%20Langhe%20Nascetta-767x1100.jpg",
+      "price": 86.0,
+      "units_in_stock": 122,
+      "color": 2,
+      "year": 2022,
+      "taste": 1,
+      "alcohol": 13.0,
+      "volume": 750,
+      "country": "PL"
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 137,
+    "fields": {
+      "name": "Late Bottled Vintage",
+      "description": "This is the modern man (or woman's) vintage port. Rather than being bottled after two years as vintage port is, LBV is kept in oak barrels to help it mature much more quickly. So if you are in a hurry, this is your vintage port",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Portugalia/Quinta%20do%20Infantado/Porto%20LBV%202018-767x1100.jpg",
+      "price": 128.0,
+      "units_in_stock": 94,
+      "color": 10,
+      "country": "PT",
+      "year": 2015,
+      "taste": 2,
+      "volume": 500,
+      "alcohol": 13.0
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 138,
+    "fields": {
+      "name": "Late Harvest",
+      "description": "This lively wine offers floral aromas mixed with notes of pink grapefruit and orange confiture. On the palate it is round, fully bodied, with good acidity and notes of orange peel, that lead into a pleasant and very long finish.\nThe Semillon is taken from a small plot on the Angostura Estate  from vines that date back to 1912. The Gewurztraminer allows for floral aromas, most specifically roses. The two varieties come together harmoniously to give a sweet, complex and elegant wine. Ideal with dessert or if further  chilled can also be ideal as an aperitif.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Chile/Casa%20Silva/Casa%20Silva%20Late%20Harvest-767x1100.jpg",
+      "price": 64.0,
+      "units_in_stock": 42,
+      "color": 2,
+      "year": 2021,
+      "taste": 2,
+      "alcohol": 13.5,
+      "volume": 500,
+      "country": "HU"
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 139,
+    "fields": {
+      "name": "Le  Nardian",
+      "description": "Equal parts Sauvignon Blanc and Semillon, with 20% of Muscadelle, the Semillon is less tropical than usual and so the aromatics are more refined and classic, giving more focus to the whole. Nevertheless, there is still a good measure of fun and exuberance to be had, with white flowers, grapefruit and clotted cream on the nose, a full-bodied doughy warmth on the palate followed by zesty mango, and a rich yet refreshing finish. Outstanding!",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Francja/Teyssier/Le%20Nardian-767x1100.jpg",
+      "price": 248.0,
+      "units_in_stock": 96,
+      "color": 2,
+      "country": "FR",
+      "year": 2017,
+      "taste": 1,
+      "alcohol": 13.5,
+      "volume": 750
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 140,
+    "fields": {
+      "name": "Le Carre",
+      "description": "LE CARRÉ, meaning The Square, became the newest of our ‘Single Vineyard Series’ wines in 2005. These wines are made in small quantities and are based on the côtes Cru Classé land that surrounds the town of Saint Emilion. The vineyard is situated next to CLOS FOURTET – separated by a tumble-down wall. We were lucky enough to purchase this vineyard from CHATEAU CANON, Premier Grand Cru Classé.\nLE CARRE exemplifies the fantastic provenance of differing soils/terroirs that Saint Emilion manifests. Only 400 meters separates LES ASTERIES and LE CARRE and yet the wines are poles apart in style. LE CARRE is probably our chunkiest, most modern-style wine.\n94-96 PTS, JEB DUNNUCK: “Coming from a parcel near Clos Fourtet, the 2018 Le Carré (which means “square” in English) is 80% Merlot and 20% Cabernet Franc brought up 80% new French. Its purple color is followed by a killer bouquet of cassis and blackcurrants balanced by a terrific sense of minerality and salinity. Full-bodied, deep, layered, and pure, it's the finest vintage to date and is well worth seeking out.”",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Francja/Teyssier/5B6A0155-767x1100.jpg",
+      "price": 598.0,
+      "units_in_stock": 51,
+      "color": 1,
+      "country": "FR",
+      "year": 2016,
+      "taste": 1,
+      "volume": 1000,
+      "alcohol": 11.0
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 141,
+    "fields": {
+      "name": "Le Dome",
+      "description": "This single-vineyard of three hectares is situated next to Château Angelus and represents the highest manifestation of Cabernet Franc in a wine of this level from Bordeaux. Eighty per cent of the vineyard is dedicated to this variety – the rest is old-vine Merlot.\nConcentration and definition are therefore the watchwords for this benchmark wine. The production of Le Dome is not large at around 1,000 cases. The palate is opulent, full-bodied with spicy black fruits, saturated tannins and a texture so smooth you could slide down it.\nRobert Parker, barrel samples POINTS 92-94 : Le Dome exhibits a deep purple color along with abundant aromas of blueberries, mulberries, spring flowers, white chocolate and spice.This supple-textured, medium to full-bodied wine has finesse, but it does not sacrifice any concentration, depth or length. Drink it over the next 15+ years.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Francja/Teyssier/le-dome-saint-emilion-grand-cru-2012-chateau-teyssier-francja-500-767x1100.jpg",
+      "price": 1390.0,
+      "units_in_stock": 21,
+      "color": 1,
+      "country": "FR",
+      "year": 2016,
+      "taste": 1,
+      "volume": 750,
+      "alcohol": 9.0
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 142,
+    "fields": {
+      "name": "Le Pinacle Syrah",
+      "description": "Le Pinacle or 'the pinnacle' is the highest point of the tower on the Chateau at Domaine Sainte Rose thus, symbolically, this superbly structured Syrah is the top of Domaine's red wine range. The wine is made in the Cotes Rotie style of the Rhone Valley thus the Syrah was co-fermented with 5% of the white grape variety Viognier. This wine spent twelve months ageing in French oak barrels. Colour: Opaque, almost black red. Nose: Magnificently rich plum jam and liquorice aromas with hints of dark chocolate. Palate: Big, expressive and intense flavours. Black fruit dominates but is combined with mocha and coffee, which provides a round, smooth finish.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Francja/Domaine%20Saint%20Rose/Le%20Pinacle%20Syrah%202016-767x1100.jpg",
+      "price": 79.0,
+      "units_in_stock": 63,
+      "color": 1,
+      "country": "FR",
+      "year": 2018,
+      "taste": 1,
+      "alcohol": 13.5,
+      "volume": 750
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 143,
+    "fields": {
+      "name": "Le Pinacle",
+      "description": "‘Le Pinacle’ is the name given to the exclusive series of wines at the top of our range at Domaine Sainte Rose, named after the highest point on the Domaine, the iconic turret on the crest of the château – ‘The Pinnacle’.\nCreated from selected parcels of grapes that were carefully vinified to achieve the highest quality possible. This is a luxurious, barrel fermented Chardonnay that spent 12 months aging in new and one-year-old French oak barrels, with partial malolactic fermentation. Released in the perfect time, just as the days are getting longer, when it will be a perfect accompaniment to al fresco grilled fish, barbecued chicken or spiced roasted cauliflower steaks.\nColour: Glorious pale gold appearance.\nNose: Bursting with white peach aromas and overtones of tropical fruit.\nPalate: Complex spicy, leesy palate that has long layers of intense flavours.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Francja/Domaine%20Saint%20Rose/Le%20Pinacle%20Chardonnay-767x1100.png",
+      "price": 79.0,
+      "units_in_stock": 54,
+      "color": 2,
+      "year": 2021,
+      "taste": 1,
+      "alcohol": 13.5,
+      "volume": 750,
+      "country": "IT"
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 144,
+    "fields": {
+      "name": "Le Rêve rose",
+      "description": "Coming from the beautiful passage of Flassanssur-Issole, in the South East of France, Le Rêve benefits from a warm and sunny climate during the day and cool at night. The soil is clay-limestone and thus offers delicate mineral notes to this elegant wine.\nPale pink tinged with rose gold hues. The nose is intense, subtly mingling crushed strawberries with white flowers, red cherries, candied pears and a touch of mint. The palate is crisp and fresh, the fruit is beautifully balanced; a full and elegant wine with a refreshing, dry finish. Great persistence.\nMatthew Jukes, 2022\n\"You would have thought Le Dôme would have been owner Jonathan Maltus’s dream, but no. Le Rêve rosé wears this monicker, and Jonathan, an international wine magnate of standing, has made just 500 cases of bottles and 600 magnums of this heavenly wine. This is Maltus’s first foray into rosé, and it is a fleshy, mid-way point between painfully thin Provençal wannabes and the more structured rosés from Bandol, and the quality of the strawberry fruit is second to none. Generous, ambitious and delicious, this dream is now a reality.\"",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Francja/Teyssier/La%20Reve%20Rose-767x1100.jpg",
+      "price": 198.0,
+      "units_in_stock": 107,
+      "color": 3,
+      "year": 2021,
+      "taste": 1,
+      "alcohol": 13.0,
+      "volume": 750,
+      "country": "HU"
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 145,
+    "fields": {
+      "name": "Le Temps est Venu Blanc",
+      "description": "Medium bodied with flavours of ripe pears, marzipan and butterscotch. It possesses great balance and a very long finish due to its refreshing acidity.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Francja/MS-Ogier/ogier-cotes-du-rhone-le-temps-est-venu-blanc-G_58370dedd744e-767x1100.png",
+      "price": 69.0,
+      "units_in_stock": 16,
+      "color": 2,
+      "country": "FR",
+      "year": 2021,
+      "taste": 1,
+      "volume": 750,
+      "alcohol": 14.0
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 146,
+    "fields": {
+      "name": "Le Temps est Venu Rouge",
+      "description": "Mainly Grenache but also with small quantities of Syrah and Mourvèdre, this is medium bodied and offers lively, slightly spicy fruit flavours and a long, smooth finish.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Francja/le-temps-est-venu-2013-2014-cotes-du-rhone-m-and-s-ogier-d-ampuis-francja-470-767x1100.jpg",
+      "price": 69.0,
+      "units_in_stock": 46,
+      "color": 1,
+      "country": "FR",
+      "year": 2021,
+      "taste": 1,
+      "volume": 750,
+      "alcohol": 12.0
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 147,
+    "fields": {
+      "name": "Legacy 'Methode Traditionnelle'",
+      "description": "The Legacy shows a delightful yeasty brioche aroma with a fine and vibrant bead. The lively citrus flavours are coupled with a rich creamy texture resulting from the extended yeast lees aging in the bottle. The Legacy is a complex, full-bodied and flavoursome Méthode Traditionnelle.\nThis wines developed, complex nose has aromas of green apple and citrus fruits. Hints of yeasty brioche follow through from nose to palate, vibrantly refreshing with delicate layers of macadamia shortbread and mousse. Champagne like in every way, we are left with balanced acidity and a crisp, dry finish.\nA stunning New Zealand alternative of the French Champagne. A great aperitif or would suit many entrée dishes. Can be cellared for a further 10 years.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Nowa-Zelandia/Soljans%20Estate/Soljans%20Legacy-767x1100.png",
+      "price": 99.0,
+      "units_in_stock": 115,
+      "color": 8,
+      "country": "NZ",
+      "year": 2020,
+      "taste": 7,
+      "alcohol": 12.5,
+      "volume": 750
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 148,
+    "fields": {
+      "name": "Los Companeros",
+      "description": "A vibrant display of red and blue jubey fruits, intertwined with five spice and cinnamon. Charry oak and some herbal characters adding complexity.\nThe soft blue and red berry characters follow on to the palate. Shiraz providing a mouthful of plush spicey-sweet fruit, whilst Tempranillo plays its hand by contributing a deliciously rustic, savoury tannin profile.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Australia/Pikes/Pikes%20Los%20Companeros-767x1100.jpg",
+      "price": 65.0,
+      "units_in_stock": 72,
+      "color": 1,
+      "year": 2019,
+      "taste": 1,
+      "alcohol": 14.5,
+      "volume": 750,
+      "country": "PL"
+    }
+  },
+  {
+    "model": "base.wine",
+    "pk": 149,
+    "fields": {
+      "name": "Lote Especial",
+      "description": "The Bonarda variety is very popular in Argentina, especially in Mendoza. The idea of this Special Edition is to show another expression of this varietal from La Brava home vineyards, located in Cafayate, at 1700masl.\nRuby colored with purple hues, the nose highlights black and red fruits with a spicy mint. Concentrated and complex, it is fresh, with good volume on the palate. Ageing : 10 month in Oak Barrels.",
+      "image_url": "https://www.wine-express.pl/image/cache/catalog/Argentyna/Colome%20Lote%20Especial%20Bonarda-767x1100.png",
+      "price": 86.0,
+      "units_in_stock": 13,
+      "color": 1,
+      "year": 2022,
+      "taste": 1,
+      "alcohol": 14.0,
+      "volume": 750,
+      "country": "HU"
+    }
+  }
+]

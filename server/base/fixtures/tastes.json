@@ -1,0 +1,51 @@
+[
+    {
+        "model": "base.winetaste",
+        "pk": 1,
+        "fields": {
+            "taste": "Dry"
+        }
+    },
+    {
+        "model": "base.winetaste",
+        "pk": 2,
+        "fields": {
+            "taste": "Sweet"
+        }
+    },
+    {
+        "model": "base.winetaste",
+        "pk": 3,
+        "fields": {
+            "taste": "Oaked"
+        }
+    },
+    {
+        "model": "base.winetaste",
+        "pk": 4,
+        "fields": {
+            "taste": "Semi-sweet"
+        }
+    },
+    {
+        "model": "base.winetaste",
+        "pk": 5,
+        "fields": {
+            "taste": "Extra Dry"
+        }
+    },
+    {
+        "model": "base.winetaste",
+        "pk": 6,
+        "fields": {
+            "taste": "Semi-dry"
+        }
+    },
+    {
+        "model": "base.winetaste",
+        "pk": 7,
+        "fields": {
+            "taste": "Brut"
+        }
+    }
+]

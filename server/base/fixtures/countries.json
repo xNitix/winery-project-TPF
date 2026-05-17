@@ -1,0 +1,128 @@
+[
+    {
+        "model": "base.country",
+        "pk": "AR",
+        "fields": {
+            "name": "Argentina"
+        }
+    },
+    {
+        "model": "base.country",
+        "pk": "AU",
+        "fields": {
+            "name": "Australia"
+        }
+    },
+    {
+        "model": "base.country",
+        "pk": "BR",
+        "fields": {
+            "name": "Brazil"
+        }
+    },
+    {
+        "model": "base.country",
+        "pk": "CL",
+        "fields": {
+            "name": "Chile"
+        }
+    },
+    {
+        "model": "base.country",
+        "pk": "CN",
+        "fields": {
+            "name": "China"
+        }
+    },
+    {
+        "model": "base.country",
+        "pk": "DE",
+        "fields": {
+            "name": "Germany"
+        }
+    },
+    {
+        "model": "base.country",
+        "pk": "ES",
+        "fields": {
+            "name": "Spain"
+        }
+    },
+    {
+        "model": "base.country",
+        "pk": "FR",
+        "fields": {
+            "name": "France"
+        }
+    },
+    {
+        "model": "base.country",
+        "pk": "IT",
+        "fields": {
+            "name": "Italy"
+        }
+    },
+    {
+        "model": "base.country",
+        "pk": "NZ",
+        "fields": {
+            "name": "New Zealand"
+        }
+    },
+    {
+        "model": "base.country",
+        "pk": "PT",
+        "fields": {
+            "name": "Portugal"
+        }
+    },
+    {
+        "model": "base.country",
+        "pk": "RO",
+        "fields": {
+            "name": "Romania"
+        }
+    },
+    {
+        "model": "base.country",
+        "pk": "RU",
+        "fields": {
+            "name": "Russia"
+        }
+    },
+    {
+        "model": "base.country",
+        "pk": "US",
+        "fields": {
+            "name": "United States"
+        }
+    },
+    {
+        "model": "base.country",
+        "pk": "ZA",
+        "fields": {
+            "name": "South Africa"
+        }
+    },
+    {
+        "model": "base.country",
+        "pk": "PL",
+        "fields": {
+            "name": "Poland"
+        }
+    },
+    {
+        "model": "base.country",
+        "pk": "HU",
+        "fields": {
+            "name": "Hungary"
+        }
+    },
+    {
+        "model": "base.country",
+        "pk": "AT",
+        "fields": {
+            "name": "Austria"
+        }
+    }
+]

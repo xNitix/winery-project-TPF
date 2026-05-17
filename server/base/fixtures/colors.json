@@ -1,0 +1,72 @@
+[
+    {
+        "model": "base.winecolor",
+        "pk": 1,
+        "fields": {
+            "color": "Red"
+        }
+    },
+    {
+        "model": "base.winecolor",
+        "pk": 2,
+        "fields": {
+            "color": "White"
+        }
+    },
+    {
+        "model": "base.winecolor",
+        "pk": 3,
+        "fields": {
+            "color": "Rose"
+        }
+    },
+    {
+        "model": "base.winecolor",
+        "pk": 4,
+        "fields": {
+            "color": "Gray"
+        }
+    },
+    {
+        "model": "base.winecolor",
+        "pk": 5,
+        "fields": {
+            "color": "Orange"
+        }
+    },
+    {
+        "model": "base.winecolor",
+        "pk": 6,
+        "fields": {
+            "color": "Tawny"
+        }
+    },
+    {
+        "model": "base.winecolor",
+        "pk": 7,
+        "fields": {
+            "color": "Yellow"
+        }
+    },
+    {
+        "model": "base.winecolor",
+        "pk": 8,
+        "fields": {
+            "color": "Sparkling"
+        }
+    },
+    {
+        "model": "base.winecolor",
+        "pk": 9,
+        "fields": {
+            "color": "Gin"
+        }
+    },
+    {
+        "model": "base.winecolor",
+        "pk": 10,
+        "fields": {
+            "color": "Port"
+        }
+    }
+]

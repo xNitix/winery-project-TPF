@@ -1,0 +1,482 @@
+[
+    {
+        "model": "base.country",
+        "pk": "AR",
+        "fields": {
+            "name": "Argentina"
+        }
+    },
+    {
+        "model": "base.country",
+        "pk": "AU",
+        "fields": {
+            "name": "Australia"
+        }
+    },
+    {
+        "model": "base.country",
+        "pk": "BR",
+        "fields": {
+            "name": "Brazil"
+        }
+    },
+    {
+        "model": "base.country",
+        "pk": "CL",
+        "fields": {
+            "name": "Chile"
+        }
+    },
+    {
+        "model": "base.country",
+        "pk": "CN",
+        "fields": {
+            "name": "China"
+        }
+    },
+    {
+        "model": "base.country",
+        "pk": "DE",
+        "fields": {
+            "name": "Germany"
+        }
+    },
+    {
+        "model": "base.country",
+        "pk": "ES",
+        "fields": {
+            "name": "Spain"
+        }
+    },
+    {
+        "model": "base.country",
+        "pk": "FR",
+        "fields": {
+            "name": "France"
+        }
+    },
+    {
+        "model": "base.country",
+        "pk": "IT",
+        "fields": {
+            "name": "Italy"
+        }
+    },
+    {
+        "model": "base.country",
+        "pk": "NZ",
+        "fields": {
+            "name": "New Zealand"
+        }
+    },
+    {
+        "model": "base.country",
+        "pk": "PT",
+        "fields": {
+            "name": "Portugal"
+        }
+    },
+    {
+        "model": "base.country",
+        "pk": "RO",
+        "fields": {
+            "name": "Romania"
+        }
+    },
+    {
+        "model": "base.country",
+        "pk": "RU",
+        "fields": {
+            "name": "Russia"
+        }
+    },
+    {
+        "model": "base.country",
+        "pk": "US",
+        "fields": {
+            "name": "United States"
+        }
+    },
+    {
+        "model": "base.country",
+        "pk": "ZA",
+        "fields": {
+            "name": "South Africa"
+        }
+    },
+    {
+        "model": "base.wine",
+        "pk": 1,
+        "fields": {
+            "name": "Chardonnay",
+            "description": "A dry white wine with fruity and floral aromas.",
+            "image_url": "/src/assets/photos/1.jpg",
+            "country": "RO",
+            "color": 2,
+            "taste": 1,
+            "year": 2000,
+            "price": "3569.00",
+            "units_in_stock": 72
+        }
+    },
+    {
+        "model": "base.wine",
+        "pk": 2,
+        "fields": {
+            "name": "Merlot",
+            "description": "A medium-bodied red wine with soft tannins and notes of plum and blackberry.",
+            "image_url": "/src/assets/photos/2.jpg",
+            "country": "CN",
+            "color": 4,
+            "taste": 3,
+            "year": 1973,
+            "price": "2567.00",
+            "units_in_stock": 15
+        }
+    },
+    {
+        "model": "base.wine",
+        "pk": 3,
+        "fields": {
+            "name": "Cabernet Sauvignon",
+            "description": "A full-bodied red wine with high tannins and flavors of black currant and oak.",
+            "image_url": "/src/assets/photos/3.jpg",
+            "country": "CL",
+            "color": 7,
+            "taste": 3,
+            "year": 2013,
+            "price": "4495.00",
+            "units_in_stock": 79
+        }
+    },
+    {
+        "model": "base.wine",
+        "pk": 4,
+        "fields": {
+            "name": "Pinot Noir",
+            "description": "A light-bodied red wine with low tannins and aromas of cherry and raspberry.",
+            "image_url": "/src/assets/photos/4.jpg",
+            "country": "AU",
+            "color": 4,
+            "taste": 2,
+            "year": 1955,
+            "price": "2796.00",
+            "units_in_stock": 46
+        }
+    },
+    {
+        "model": "base.wine",
+        "pk": 5,
+        "fields": {
+            "name": "Sauvignon Blanc",
+            "description": "A crisp and refreshing white wine with citrus and tropical fruit flavors.",
+            "image_url": "/src/assets/photos/5.jpg",
+            "country": "CL",
+            "color": 5,
+            "taste": 1,
+            "year": 1951,
+            "price": "111.00",
+            "units_in_stock": 96
+        }
+    },
+    {
+        "model": "base.wine",
+        "pk": 6,
+        "fields": {
+            "name": "Riesling",
+            "description": "A sweet or dry white wine with high acidity and aromas of peach and honey.",
+            "image_url": "/src/assets/photos/6.jpg",
+            "country": "ZA",
+            "color": 5,
+            "taste": 3,
+            "year": 1972,
+            "price": "3169.00",
+            "units_in_stock": 38
+        }
+    },
+    {
+        "model": "base.wine",
+        "pk": 7,
+        "fields": {
+            "name": "Syrah",
+            "description": "A dark and spicy red wine with high tannins and flavors of black pepper and smoke.",
+            "image_url": "/src/assets/photos/7.jpg",
+            "country": "AU",
+            "color": 4,
+            "taste": 2,
+            "year": 1967,
+            "price": "3708.00",
+            "units_in_stock": 5
+        }
+    },
+    {
+        "model": "base.wine",
+        "pk": 8,
+        "fields": {
+            "name": "Zinfandel",
+            "description": "A medium-bodied red wine with moderate tannins and notes of raspberry and spice.",
+            "image_url": "/src/assets/photos/8.jpg",
+            "country": "DE",
+            "color": 1,
+            "taste": 3,
+            "year": 2003,
+            "price": "438.00",
+            "units_in_stock": 88
+        }
+    },
+    {
+        "model": "base.wine",
+        "pk": 9,
+        "fields": {
+            "name": "Malbec",
+            "description": "A rich and fruity red wine with low tannins and flavors of blackberry and chocolate.",
+            "image_url": "/src/assets/photos/9.jpg",
+            "country": "FR",
+            "color": 1,
+            "taste": 3,
+            "year": 1954,
+            "price": "2031.00",
+            "units_in_stock": 70
+        }
+    },
+    {
+        "model": "base.wine",
+        "pk": 10,
+        "fields": {
+            "name": "Pinot Grigio",
+            "description": "A light and dry white wine with floral and citrus aromas.",
+            "image_url": "/src/assets/photos/10.jpg",
+            "country": "PT",
+            "color": 7,
+            "taste": 2,
+            "year": 1974,
+            "price": "599.00",
+            "units_in_stock": 78
+        }
+    },
+    {
+        "model": "base.wine",
+        "pk": 11,
+        "fields": {
+            "name": "Champagne",
+            "description": "A sparkling wine made from Chardonnay and Pinot Noir grapes with fine bubbles and notes of apple and toast.",
+            "image_url": "/src/assets/photos/11.jpg",
+            "country": "PT",
+            "color": 6,
+            "taste": 2,
+            "year": 1965,
+            "price": "1602.00",
+            "units_in_stock": 18
+        }
+    },
+    {
+        "model": "base.wine",
+        "pk": 12,
+        "fields": {
+            "name": "Sangiovese",
+            "description": "A medium-bodied red wine with high acidity and flavors of cherry and herbs.",
+            "image_url": "/src/assets/photos/12.jpg",
+            "country": "FR",
+            "color": 7,
+            "taste": 2,
+            "year": 2010,
+            "price": "887.00",
+            "units_in_stock": 6
+        }
+    },
+    {
+        "model": "base.wine",
+        "pk": 13,
+        "fields": {
+            "name": "Gewürztraminer",
+            "description": "A sweet and aromatic white wine with low acidity and notes of lychee and rose.",
+            "image_url": "/src/assets/photos/13.jpg",
+            "country": "RU",
+            "color": 6,
+            "taste": 1,
+            "year": 1990,
+            "price": "4866.00",
+            "units_in_stock": 3
+        }
+    },
+    {
+        "model": "base.wine",
+        "pk": 14,
+        "fields": {
+            "name": "Tempranillo",
+            "description": "A medium-bodied red wine with moderate tannins and flavors of red fruit and leather.",
+            "image_url": "/src/assets/photos/14.jpg",
+            "country": "RU",
+            "color": 6,
+            "taste": 3,
+            "year": 1959,
+            "price": "2688.00",
+            "units_in_stock": 31
+        }
+    },
+    {
+        "model": "base.wine",
+        "pk": 15,
+        "fields": {
+            "name": "Viognier",
+            "description": "A dry and fragrant white wine with high acidity and aromas of apricot and peach.",
+            "image_url": "/src/assets/photos/15.jpg",
+            "country": "AR",
+            "color": 2,
+            "taste": 1,
+            "year": 1997,
+            "price": "1007.00",
+            "units_in_stock": 100
+        }
+    },
+    {
+        "model": "base.wine",
+        "pk": 16,
+        "fields": {
+            "name": "Chenin Blanc",
+            "description": "A versatile white wine that can be dry or sweet, with high acidity and flavors of apple and pear.",
+            "image_url": "/src/assets/photos/16.jpg",
+            "country": "BR",
+            "color": 5,
+            "taste": 1,
+            "year": 1999,
+            "price": "4984.00",
+            "units_in_stock": 77
+        }
+    },
+    {
+        "model": "base.wine",
+        "pk": 17,
+        "fields": {
+            "name": "Barolo",
+            "description": "A full-bodied and complex red wine with high tannins and aromas of tar and roses.",
+            "image_url": "/src/assets/photos/17.jpg",
+            "country": "DE",
+            "color": 1,
+            "taste": 3,
+            "year": 2015,
+            "price": "1891.00",
+            "units_in_stock": 12
+        }
+    },
+    {
+        "model": "base.wine",
+        "pk": 18,
+        "fields": {
+            "name": "Moscato",
+            "description": "A sweet and fizzy white wine with low alcohol and flavors of peach and orange.",
+            "image_url": "/src/assets/photos/18.jpg",
+            "country": "AR",
+            "color": 1,
+            "taste": 3,
+            "year": 1958,
+            "price": "2501.00",
+            "units_in_stock": 51
+        }
+    },
+    {
+        "model": "base.wine",
+        "pk": 19,
+        "fields": {
+            "name": "Rioja",
+            "description": "A red wine from Spain that can be young or aged, with flavors of red fruit and vanilla.",
+            "image_url": "/src/assets/photos/19.jpg",
+            "country": "RU",
+            "color": 1,
+            "taste": 1,
+            "year": 1967,
+            "price": "541.00",
+            "units_in_stock": 39
+        }
+    },
+    {
+        "model": "base.wine",
+        "pk": 20,
+        "fields": {
+            "name": "Bordeaux",
+            "description": "A red wine blend from France that can vary in style, but typically has flavors of black fruit and cedar.",
+            "image_url": "/src/assets/photos/20.jpg",
+            "country": "CN",
+            "color": 1,
+            "taste": 3,
+            "year": 2003,
+            "price": "4125.00",
+            "units_in_stock": 39
+        }
+    },
+    {
+        "model": "base.wine",
+        "pk": 21,
+        "fields": {
+            "name": "Chenin Blanc",
+            "description": "A versatile white wine that can be dry or sweet, with high acidity and flavors of apple and pear.",
+            "image_url": "/src/assets/photos/21.jpg",
+            "country": "BR",
+            "color": 5,
+            "taste": 1,
+            "year": 1999,
+            "price": "4984.00",
+            "units_in_stock": 77
+        }
+    },
+    {
+        "model": "base.wine",
+        "pk": 22,
+        "fields": {
+            "name": "Barolo",
+            "description": "A full-bodied and complex red wine with high tannins and aromas of tar and roses.",
+            "image_url": "/src/assets/photos/22.jpg",
+            "country": "DE",
+            "color": 1,
+            "taste": 3,
+            "year": 2015,
+            "price": "1891.00",
+            "units_in_stock": 12
+        }
+    },
+    {
+        "model": "base.wine",
+        "pk": 23,
+        "fields": {
+            "name": "Moscato",
+            "description": "A sweet and fizzy white wine with low alcohol and flavors of peach and orange.",
+            "image_url": "/src/assets/photos/23.jpg",
+            "country": "AR",
+            "color": 1,
+            "taste": 3,
+            "year": 1958,
+            "price": "2501.00",
+            "units_in_stock": 51
+        }
+    },
+    {
+        "model": "base.wine",
+        "pk": 24,
+        "fields": {
+            "name": "Rioja",
+            "description": "A red wine from Spain that can be young or aged, with flavors of red fruit and vanilla.",
+            "image_url": "/src/assets/photos/24.jpg",
+            "country": "RU",
+            "color": 1,
+            "taste": 1,
+            "year": 1967,
+            "price": "541.00",
+            "units_in_stock": 39
+        }
+    },
+    {
+        "model": "base.wine",
+        "pk": 25,
+        "fields": {
+            "name": "Bordeaux",
+            "description": "A red wine blend from France that can vary in style, but typically has flavors of black fruit and cedar.",
+            "image_url": "/src/assets/photos/25.jpg",
+            "country": "CN",
+            "color": 1,
+            "taste": 3,
+            "year": 2003,
+            "price": "4125.00",
+            "units_in_stock": 39
+        }
+    }
+]
