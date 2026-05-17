@@ -1,0 +1,17 @@
+.fav-icon {
+  color: #ddd;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.fav-icon:hover {
+  scale: 1.3;
+}
+
+.fav-icon:active {
+  scale: 0.8;
+}
+
+.fav {
+  color: #ff0000;
+}

@@ -1,0 +1,11 @@
+li {
+  color: #333;
+  font-size: 20px;
+  margin: 20px 80px 0px 0px;
+  list-style-type: none;
+}
+
+.category-menu li a {
+  text-decoration: none;
+  color: inherit;
+}

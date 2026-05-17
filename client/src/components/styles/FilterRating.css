@@ -1,0 +1,67 @@
+.rating-header {
+  font-size: 22px;
+  line-height: normal;
+  font-weight: 600;
+  text-align: left;
+}
+
+.rating-filter-container {
+  margin-right: auto;
+  margin-bottom: 50px;
+  align-items: center;
+}
+
+.single-rating-container {
+  display: flex;
+  flex-direction: row;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.rating-description {
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: 5px;
+  font-size: 0.8em;
+  padding-top: 5px;
+}
+
+.rating-filter-container input[type="radio"] {
+  display: none;
+}
+
+.single-rating-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.single-rating-container input[type="radio"] + label {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+
+.single-rating-container input[type="radio"] + label::before {
+  content: "";
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  border: 2px solid #ff0000;
+  margin-right: 10px;
+}
+
+.single-rating-container input[type="radio"]:checked + label::before {
+  background: radial-gradient(
+    circle at 50% 50%,
+    #ff0000 50%,
+    #ffffff 20%,
+    #ffffff 80%,
+    #ff0000 80%
+  );
+}
+
+.single-rating-container input[type="radio"]:checked + label {
+  font-weight: bold;
+}

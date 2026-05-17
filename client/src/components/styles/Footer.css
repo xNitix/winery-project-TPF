@@ -1,0 +1,8 @@
+.footer {
+  background-color: var(--dark-red);
+  color: var(--cream-color);
+  padding-top: 10px;
+  padding-bottom: 20px;
+  text-align: center;
+  width: 100%;
+}

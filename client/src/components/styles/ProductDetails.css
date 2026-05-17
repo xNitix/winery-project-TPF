@@ -1,0 +1,28 @@
+.product-details {
+  font-family: Arial, sans-serif;
+  color: #333;
+}
+
+.tabs {
+  margin-bottom: 20px;
+}
+
+.tab {
+  background: none;
+  border: none;
+  border-bottom: 2px solid transparent;
+  padding: 5px 10px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-right: 15px;
+  transition: border-color 0.3s;
+}
+
+.tab:hover {
+  border-bottom: 2px solid #333;
+}
+
+.active {
+  border-bottom: 2px solid #333;
+  font-weight: bold;
+}
